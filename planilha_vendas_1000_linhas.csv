@@ -1,0 +1,1001 @@
+Data da Venda,Produto,Categoria,Quantidade,Preço Unitário (R$),Cliente,Cidade,UF,Valor Total (R$)
+2024-09-28,Boné,Acessórios,1,298.65,Tammy Fleming,North Christineburgh,SD,298.65
+2024-12-11,Jaqueta,Vestuário,1,171.29,Joshua Jackson,Port Lauren,ME,171.29
+2024-12-14,Óculos de Sol,Acessórios,4,241.68,Linda Hunt,Sarahport,UT,966.72
+2024-10-29,Camiseta,Vestuário,4,217.06,Matthew Green,East Mark,NE,868.24
+2025-05-07,Camiseta,Vestuário,4,195.51,Anna Waters,Martinview,NH,782.04
+2024-09-07,Óculos de Sol,Acessórios,1,103.63,Dale Johnson,Matthewberg,NC,103.63
+2025-01-21,Boné,Acessórios,1,456.35,Linda Marsh,Port Chelseaberg,OH,456.35
+2024-07-23,Camiseta,Vestuário,3,298.93,Sylvia Berg,North Randytown,IN,896.79
+2024-11-09,Calça Jeans,Vestuário,3,338.24,Sandra Ward,Aliciafort,VA,1014.72
+2024-10-16,Camiseta,Vestuário,2,183.03,Aaron Rojas,Patriciamouth,NV,366.06
+2024-10-03,Calça Jeans,Vestuário,2,259.38,Troy Fernandez,Johnsonview,ID,518.76
+2025-02-21,Relógio,Acessórios,3,106.9,Heather Reyes,North Evan,NE,320.70000000000005
+2024-11-24,Calça Jeans,Vestuário,3,346.98,Alexander Smith,West Robertside,FL,1040.94
+2025-03-13,Boné,Acessórios,1,385.73,Robert Wood,Rhondachester,SC,385.73
+2025-01-08,Mochila,Acessórios,2,47.03,Terry Robinson,Port Scottbury,NJ,94.06
+2024-08-08,Camiseta,Vestuário,5,290.84,Christopher Lewis,Port John,DC,1454.1999999999998
+2024-07-10,Óculos de Sol,Acessórios,3,345.08,John Coleman,Adamville,SC,1035.24
+2024-12-01,Boné,Acessórios,1,480.2,Cindy Schwartz,Nicolemouth,RI,480.2
+2024-10-30,Jaqueta,Vestuário,3,179.54,Meghan Morrison,North Jason,NC,538.62
+2024-07-07,Mochila,Acessórios,4,461.28,Penny King,Brooketon,KS,1845.12
+2024-10-23,Relógio,Acessórios,2,365.19,John Oconnor,South Debra,MN,730.38
+2024-12-04,Relógio,Acessórios,1,149.16,Stephen Thomas,Tiffanyfurt,DC,149.16
+2024-09-18,Jaqueta,Vestuário,3,214.71,Robert Fernandez,Amystad,LA,644.13
+2024-07-28,Mochila,Acessórios,1,70.46,Michael Cherry,West Marcia,MA,70.46
+2025-04-25,Camiseta,Vestuário,1,363.01,Shannon Pratt,New Christinaport,CA,363.01
+2025-02-04,Jaqueta,Vestuário,3,400.1,Jessica King,Klinefort,CT,1200.3000000000002
+2024-06-01,Camiseta,Vestuário,5,146.89,Nicholas Mccall,Carlborough,MN,734.4499999999999
+2025-01-01,Tênis,Calçados,3,130.15,Jeffrey Yates,Ritafurt,ME,390.45000000000005
+2024-10-04,Tênis,Calçados,1,240.93,Laura Sanchez,Francischester,PA,240.93
+2025-04-01,Mochila,Acessórios,2,100.31,Brandy Hammond,Richardstad,ME,200.62
+2024-06-30,Jaqueta,Vestuário,1,248.84,Erin Johnson,South April,IL,248.84
+2024-07-12,Tênis,Calçados,5,444.54,Diana Mendoza,Harrischester,LA,2222.7000000000003
+2025-02-06,Óculos de Sol,Acessórios,1,360.04,Eric Taylor,East Brent,UT,360.04
+2025-04-26,Relógio,Acessórios,5,259.03,Mitchell Zimmerman,Port Linda,WA,1295.1499999999999
+2024-08-13,Boné,Acessórios,4,87.93,Lisa Pitts,Jacobstad,AZ,351.72
+2024-10-12,Relógio,Acessórios,3,294.41,Kristen Walsh,Dylanborough,NM,883.23
+2025-02-25,Camiseta,Vestuário,5,433.05,Alexander Austin DVM,New Veronica,TX,2165.25
+2024-08-19,Mochila,Acessórios,4,39.2,John Wilson,North Valeriehaven,AZ,156.8
+2024-12-13,Camiseta,Vestuário,1,324.75,Shelia Williams,Randyland,NH,324.75
+2024-05-19,Calça Jeans,Vestuário,5,444.91,Kimberly Peters,Rogerside,NE,2224.55
+2024-12-07,Jaqueta,Vestuário,5,397.67,Adam Williams,South Michael,WA,1988.3500000000001
+2024-08-29,Jaqueta,Vestuário,1,225.07,Lisa Mercado,New Alexander,IN,225.07
+2024-10-14,Mochila,Acessórios,2,406.04,Mary Richmond,Williamstown,HI,812.08
+2024-12-07,Tênis,Calçados,5,470.34,Justin Frank,Michaelberg,TX,2351.7
+2025-02-09,Óculos de Sol,Acessórios,3,361.53,Savannah Hamilton,North Yvonnestad,AZ,1084.59
+2025-01-20,Mochila,Acessórios,3,331.65,Marilyn Gillespie,Port Elizabethfurt,DC,994.9499999999999
+2025-04-09,Calça Jeans,Vestuário,3,64.64,Alexander Reynolds,Hickmanport,WY,193.92000000000002
+2024-09-01,Mochila,Acessórios,2,193.47,Emily Kerr,Rebeccabury,OK,386.94
+2025-02-28,Tênis,Calçados,2,457.28,Glenn Willis,New Clayton,IA,914.56
+2024-07-27,Jaqueta,Vestuário,4,458.72,Michelle Smith,South Brenda,ND,1834.88
+2024-06-20,Relógio,Acessórios,1,67.69,Erika Parsons,Port Crystal,WV,67.69
+2024-08-23,Óculos de Sol,Acessórios,4,210.11,Amy Petty,West Jeffery,NJ,840.44
+2024-07-19,Tênis,Calçados,4,379.76,Mr. Randall Diaz,New Ashley,AZ,1519.04
+2024-07-06,Relógio,Acessórios,3,243.41,Sherry Page,West Thomas,RI,730.23
+2024-07-14,Jaqueta,Vestuário,4,72.97,Alicia Jones,Andersonview,TN,291.88
+2024-08-22,Camiseta,Vestuário,2,193.03,Dennis Neal,Fergusonland,NC,386.06
+2024-09-04,Mochila,Acessórios,4,442.06,Kelly Koch,New Vanessafurt,GA,1768.24
+2024-06-23,Óculos de Sol,Acessórios,2,40.89,John Walsh,Rebeccafurt,DC,81.78
+2024-06-10,Jaqueta,Vestuário,5,221.88,Mr. Matthew Jenkins,Port Kristen,AL,1109.4
+2024-08-23,Óculos de Sol,Acessórios,1,352.43,Stacey Reynolds,Kimview,MS,352.43
+2025-03-28,Calça Jeans,Vestuário,5,344.44,Tyler Peterson,South Melinda,ID,1722.2
+2024-08-25,Óculos de Sol,Acessórios,3,96.82,Mariah Mckinney,West Bryanview,DE,290.46
+2024-11-30,Camiseta,Vestuário,4,357.43,Robert Thompson,Hernandezton,KY,1429.72
+2024-07-23,Boné,Acessórios,1,232.84,Joe Adams,North Derrickville,CO,232.84
+2025-01-25,Óculos de Sol,Acessórios,2,245.34,Jeffrey Orr,Millerchester,IN,490.68
+2025-01-09,Relógio,Acessórios,1,433.64,Bradley Ramirez,Lake Bradley,MN,433.64
+2025-02-11,Mochila,Acessórios,1,392.41,Timothy Green,Barreraberg,WV,392.41
+2025-03-23,Óculos de Sol,Acessórios,3,238.09,Matthew Rosales,East Christopher,AK,714.27
+2024-08-14,Boné,Acessórios,2,488.74,Austin Garcia,Garrettfurt,OH,977.48
+2024-07-12,Tênis,Calçados,5,135.35,Michael Henson,Brownport,AZ,676.75
+2024-06-20,Camiseta,Vestuário,2,366.44,Danielle Smith,South Ryanbury,NV,732.88
+2024-11-20,Relógio,Acessórios,2,114.9,Kari Miller,Lake Tiffanyhaven,NC,229.8
+2024-06-03,Calça Jeans,Vestuário,2,491.13,Jamie Hogan,Jessicatown,NH,982.26
+2024-11-13,Relógio,Acessórios,5,429.59,Caleb Phillips,Millerfort,ME,2147.95
+2024-06-05,Óculos de Sol,Acessórios,5,473.11,Jeremy Haynes,West Jonathanfurt,AL,2365.55
+2025-03-25,Jaqueta,Vestuário,1,468.27,Jessica Johnson,East Felicia,DE,468.27
+2024-10-16,Relógio,Acessórios,4,96.76,Jennifer Anderson,North Nicholasfurt,WI,387.04
+2025-03-12,Relógio,Acessórios,4,185.93,Christopher Reed,Vincenttown,SD,743.72
+2025-02-11,Boné,Acessórios,1,456.41,Tara Hahn,North Chelsey,KY,456.41
+2025-03-06,Jaqueta,Vestuário,4,353.79,Raymond Williams,Alexandraport,MS,1415.16
+2025-04-10,Jaqueta,Vestuário,2,371.67,Meghan Love,Port Susantown,DE,743.34
+2025-01-05,Boné,Acessórios,5,331.87,Nicole Hammond,North Virginia,RI,1659.35
+2024-08-02,Tênis,Calçados,3,287.95,Ashley Collins,Morenoborough,SD,863.8499999999999
+2025-04-25,Mochila,Acessórios,1,287.77,Monica Miranda,Timothyshire,TN,287.77
+2025-05-13,Camiseta,Vestuário,1,99.89,Allison Avila,Matthewmouth,TX,99.89
+2024-06-27,Boné,Acessórios,4,76.27,Leslie Crawford,South Dakotaton,MN,305.08
+2024-07-28,Óculos de Sol,Acessórios,1,30.4,Devon Smith,New Edward,GA,30.4
+2024-12-27,Óculos de Sol,Acessórios,2,492.29,Ann Wright,Port Donaldfort,HI,984.58
+2024-11-23,Camiseta,Vestuário,3,321.14,Olivia Baker,Lake Kristen,AK,963.42
+2024-09-08,Mochila,Acessórios,3,37.81,Misty Medina,Mitchellchester,OR,113.43
+2025-02-20,Camiseta,Vestuário,5,364.71,Kevin Brooks,West Jamie,DC,1823.55
+2024-12-26,Óculos de Sol,Acessórios,5,184.62,Anna Miller,Wilsonville,ND,923.1
+2024-11-01,Boné,Acessórios,5,338.48,Ashley Davila,Lake Ivanfort,MA,1692.4
+2025-05-17,Relógio,Acessórios,3,182.61,Sarah Porter,Melindamouth,RI,547.83
+2024-10-07,Boné,Acessórios,1,161.49,Amber Wilson,Tammyhaven,RI,161.49
+2025-05-11,Mochila,Acessórios,2,47.82,Gloria Anderson,Port Stevenshire,CT,95.64
+2025-01-08,Relógio,Acessórios,2,133.52,Frank Houston,East Heiditown,IL,267.04
+2024-09-12,Óculos de Sol,Acessórios,3,369.98,Gerald Brooks,East Crystal,UT,1109.94
+2024-05-20,Camiseta,Vestuário,1,226.65,Douglas Williams,Bushtown,MD,226.65
+2025-05-18,Camiseta,Vestuário,4,298.95,Laura Burnett,Watkinsbury,WI,1195.8
+2025-04-29,Boné,Acessórios,4,226.76,Jeff Lopez,Lake Deborah,NV,907.04
+2024-10-03,Boné,Acessórios,4,408.09,Courtney Garcia,Tylerton,MT,1632.36
+2025-03-03,Tênis,Calçados,2,250.12,Matthew Davila,East Mollybury,MT,500.24
+2025-05-04,Calça Jeans,Vestuário,3,484.15,Bradley Hahn,West Toddfort,WA,1452.4499999999998
+2025-04-28,Óculos de Sol,Acessórios,2,289.85,Tammy Caldwell,Johnsonville,ME,579.7
+2024-12-08,Jaqueta,Vestuário,4,424.45,Jon Barnes,New Christinaville,OR,1697.8
+2024-08-29,Jaqueta,Vestuário,1,404.38,Johnny Smith,Smithborough,IL,404.38
+2025-01-21,Camiseta,Vestuário,1,351.69,Scott Gibson,Marymouth,KY,351.69
+2024-10-16,Camiseta,Vestuário,3,298.6,Emily Stone,Port Phyllis,ND,895.8000000000001
+2025-03-02,Jaqueta,Vestuário,2,33.65,Jeanette Gill,Andrewshire,OH,67.3
+2024-06-23,Boné,Acessórios,3,207.9,William Stone,Maureenberg,KS,623.7
+2025-03-06,Jaqueta,Vestuário,1,130.69,Dawn Flores,West Jasmine,MA,130.69
+2024-12-24,Tênis,Calçados,5,253.16,Ashley Middleton,Allisonport,AR,1265.8
+2025-01-10,Tênis,Calçados,5,50.09,Karen Fisher,Teresaside,SC,250.45000000000002
+2025-01-23,Óculos de Sol,Acessórios,2,498.18,Kimberly James,East Martinshire,MS,996.36
+2024-11-18,Óculos de Sol,Acessórios,4,65.16,Scott Reynolds,South Michael,NM,260.64
+2024-12-27,Mochila,Acessórios,3,453.39,Julian Hodges,Robinbury,GA,1360.17
+2025-03-10,Óculos de Sol,Acessórios,4,250.59,Richard Griffith,New Christinabury,MT,1002.36
+2025-04-02,Calça Jeans,Vestuário,3,294.02,Laurie Collins,Amandabury,AL,882.06
+2025-01-10,Tênis,Calçados,3,80.45,Traci Rodriguez,South Kristineshire,AK,241.35000000000002
+2024-09-18,Boné,Acessórios,2,368.28,Joseph Kaufman,Sanchezhaven,DE,736.56
+2024-08-13,Mochila,Acessórios,1,353.71,Carla Myers,Greenechester,NH,353.71
+2024-12-22,Camiseta,Vestuário,4,399.01,Catherine Rivers,Port Tammy,DC,1596.04
+2025-04-08,Boné,Acessórios,4,325.0,Sheila Stevens,Sharpburgh,OH,1300.0
+2024-06-01,Calça Jeans,Vestuário,2,61.94,Cindy Taylor,Lindsaymouth,WY,123.88
+2024-08-29,Relógio,Acessórios,5,461.84,Chelsea Collins,New Lisa,OR,2309.2
+2025-02-06,Tênis,Calçados,5,316.52,Joshua Thomas,Annaland,VA,1582.6
+2024-08-11,Tênis,Calçados,1,380.67,Timothy Ross,Port James,AL,380.67
+2025-03-07,Tênis,Calçados,1,105.41,Teresa Drake,Anatown,VT,105.41
+2024-09-21,Boné,Acessórios,4,274.61,Frank Johnson,Wilsonchester,ME,1098.44
+2025-05-06,Óculos de Sol,Acessórios,4,257.36,Nancy Hubbard,Philipfort,UT,1029.44
+2024-12-22,Relógio,Acessórios,4,232.28,Francisco Phillips,North Suzannetown,IL,929.12
+2024-10-30,Camiseta,Vestuário,4,197.49,James Ochoa,South Josephchester,VT,789.96
+2025-03-29,Tênis,Calçados,5,390.18,Douglas Torres,Martinezfurt,WI,1950.9
+2024-07-23,Tênis,Calçados,5,478.35,John Brown,West Scotthaven,MN,2391.75
+2025-05-08,Tênis,Calçados,1,396.09,Rebekah Wagner,South Todd,HI,396.09
+2025-02-27,Boné,Acessórios,5,114.92,Jonathan Cox,South Steven,HI,574.6
+2024-05-25,Calça Jeans,Vestuário,1,378.74,Chelsea Wong,Wallacestad,MA,378.74
+2024-07-10,Óculos de Sol,Acessórios,1,380.52,Kimberly Carter,South Ericaburgh,CO,380.52
+2025-01-01,Tênis,Calçados,1,402.57,Peter Anderson,Lisahaven,KY,402.57
+2025-04-25,Calça Jeans,Vestuário,2,174.0,Matthew Douglas,South Charles,TX,348.0
+2025-03-19,Relógio,Acessórios,5,368.46,Steven Robinson,North Donald,CO,1842.3
+2024-08-10,Tênis,Calçados,1,291.9,Lisa Carter,Virginiachester,MI,291.9
+2024-12-05,Mochila,Acessórios,2,72.71,Denise Lopez,Kathrynside,NH,145.42
+2024-11-27,Tênis,Calçados,2,467.9,Kelsey Gregory,Amyland,KY,935.8
+2024-10-13,Boné,Acessórios,5,333.05,Cheryl Moore,Albertchester,OH,1665.25
+2024-08-10,Mochila,Acessórios,4,467.28,Kevin Jones,Theresaton,NM,1869.12
+2025-01-02,Boné,Acessórios,3,229.6,Jordan Williamson,North Lauren,SD,688.8
+2024-12-22,Boné,Acessórios,2,475.59,Meredith Johnson,West Jonathan,IN,951.18
+2025-03-30,Camiseta,Vestuário,4,329.79,Anthony Wilson,Tylerbury,IA,1319.16
+2025-02-26,Camiseta,Vestuário,3,45.97,Zachary Robinson,Port Michaelville,OH,137.91
+2024-07-18,Relógio,Acessórios,1,201.7,Rhonda Kennedy,Barnesview,IL,201.7
+2024-08-02,Camiseta,Vestuário,5,338.09,Eric Foster,Elizabethberg,WA,1690.4499999999998
+2024-05-21,Óculos de Sol,Acessórios,2,396.12,Thomas Jackson,Larrystad,VT,792.24
+2024-10-27,Camiseta,Vestuário,5,97.54,Vickie Murphy,Stewartberg,RI,487.70000000000005
+2024-06-24,Relógio,Acessórios,1,44.95,John Roberts,Port Zachary,DE,44.95
+2025-01-13,Calça Jeans,Vestuário,5,150.22,Michael Clark,West Terriburgh,TN,751.1
+2025-02-16,Calça Jeans,Vestuário,3,464.34,Sandra Hanna,Deborahport,OK,1393.02
+2024-09-15,Óculos de Sol,Acessórios,5,234.56,Sarah Davis,Kellyton,WV,1172.8
+2024-12-15,Calça Jeans,Vestuário,1,387.58,Margaret Campbell,Kathrynview,AK,387.58
+2024-06-10,Tênis,Calçados,1,60.47,Alexander Thompson,Guerreroberg,AZ,60.47
+2025-01-26,Óculos de Sol,Acessórios,4,198.7,Jonathan Hicks,Ramirezfurt,NE,794.8
+2025-02-02,Boné,Acessórios,5,401.66,Gregory Mendez,New Jennifer,MS,2008.3000000000002
+2024-07-07,Relógio,Acessórios,2,216.32,Matthew Lawrence,Anthonyberg,OH,432.64
+2024-10-07,Calça Jeans,Vestuário,2,323.4,Leonard Brown,Millerberg,AK,646.8
+2024-09-01,Óculos de Sol,Acessórios,5,77.3,Natalie Curtis,Port David,NH,386.5
+2024-10-23,Boné,Acessórios,3,65.9,Kimberly Roberts,Port William,UT,197.70000000000002
+2024-07-20,Tênis,Calçados,5,141.08,Christy Clark,Austinside,OK,705.4000000000001
+2024-06-24,Tênis,Calçados,5,307.5,Robin Hanna,Lake Paige,MA,1537.5
+2024-06-12,Boné,Acessórios,1,105.12,Elizabeth Russell,Harriston,OR,105.12
+2025-02-22,Mochila,Acessórios,1,179.11,Warren Reed,Port Ian,WV,179.11
+2025-04-18,Tênis,Calçados,2,224.2,Mrs. Dawn Cooper MD,Bobbyville,MA,448.4
+2025-02-06,Jaqueta,Vestuário,4,404.1,Austin Wilcox,Lake Davidview,CO,1616.4
+2025-01-18,Relógio,Acessórios,3,286.5,Kelly Thomas,East Tamara,AK,859.5
+2024-11-19,Tênis,Calçados,5,346.32,Brandon Henry,Ashleyborough,MN,1731.6
+2025-02-04,Boné,Acessórios,1,32.36,Mark Miller,Williamsport,AL,32.36
+2024-10-24,Relógio,Acessórios,2,323.94,Crystal Long,North Jeremyport,ME,647.88
+2025-01-07,Tênis,Calçados,2,86.64,Michael Castro,Sandrachester,OK,173.28
+2025-04-18,Tênis,Calçados,2,445.0,James Bush,Anthonybury,IA,890.0
+2024-05-21,Tênis,Calçados,5,100.24,Anthony Armstrong,Thomashaven,MS,501.2
+2024-10-30,Relógio,Acessórios,2,332.27,Erin Pierce,Daleberg,NH,664.54
+2025-02-06,Jaqueta,Vestuário,1,166.76,Lisa Peterson,Samanthaborough,LA,166.76
+2025-02-13,Jaqueta,Vestuário,4,295.76,Teresa Burke,Port Matthewshire,NH,1183.04
+2024-06-26,Mochila,Acessórios,3,331.44,James Leon,New Coltonfurt,ID,994.3199999999999
+2024-10-13,Calça Jeans,Vestuário,4,408.54,Patrick Perez,Frazierfort,PA,1634.16
+2025-01-17,Mochila,Acessórios,3,457.38,Monica Soto,Jeffreyfort,ME,1372.1399999999999
+2025-02-05,Óculos de Sol,Acessórios,3,163.9,Timothy Stone,Vargasport,NE,491.70000000000005
+2024-09-29,Boné,Acessórios,5,478.84,Sarah Whitaker,Townsendton,OK,2394.2
+2025-01-15,Camiseta,Vestuário,3,261.52,Stephanie Garcia,Newmanhaven,MD,784.56
+2025-02-14,Camiseta,Vestuário,3,407.11,Patricia Orozco,New Harryburgh,MA,1221.33
+2025-01-28,Camiseta,Vestuário,4,78.03,Mark Thomas,Garciaton,NY,312.12
+2024-05-30,Relógio,Acessórios,5,75.15,Dennis Welch,Garrisonshire,DE,375.75
+2025-03-12,Relógio,Acessórios,1,100.87,Charlotte Wyatt,South Kimberly,HI,100.87
+2024-07-05,Óculos de Sol,Acessórios,3,140.62,Laura Shannon,Steveberg,OR,421.86
+2025-02-26,Jaqueta,Vestuário,4,212.66,Jack Perez,Lake Sandrafort,GA,850.64
+2025-03-12,Calça Jeans,Vestuário,5,384.91,Sarah Romero,Dawnfort,OR,1924.5500000000002
+2025-03-16,Óculos de Sol,Acessórios,1,252.47,Lucas Perez,Petersonbury,CT,252.47
+2024-09-25,Camiseta,Vestuário,4,266.53,Paul Hopkins,Yangborough,ND,1066.12
+2025-04-28,Boné,Acessórios,1,60.86,Casey Lewis,Boyermouth,VA,60.86
+2024-06-16,Jaqueta,Vestuário,4,385.02,Crystal Smith,Scottfurt,LA,1540.08
+2024-06-24,Calça Jeans,Vestuário,4,322.33,James Brown,New Monique,SD,1289.32
+2025-05-05,Mochila,Acessórios,4,134.36,Jennifer Graves,East Abigailfurt,NC,537.44
+2024-12-08,Tênis,Calçados,2,324.44,Zachary Brown,Port Kyle,WA,648.88
+2025-03-21,Jaqueta,Vestuário,2,435.26,Leah Floyd,North Stephanie,AZ,870.52
+2024-10-08,Mochila,Acessórios,5,163.67,Karen Fox,Lake Allen,IL,818.3499999999999
+2024-12-28,Relógio,Acessórios,2,186.05,Sarah Reynolds,West Brad,UT,372.1
+2024-09-01,Relógio,Acessórios,1,433.16,Paula Jones,Tonyamouth,WI,433.16
+2025-04-23,Mochila,Acessórios,4,383.21,William Griffin,New Kyleborough,AZ,1532.84
+2025-01-17,Tênis,Calçados,4,493.8,Alejandro Lawrence,East Annburgh,SC,1975.2
+2024-10-17,Óculos de Sol,Acessórios,2,167.24,Allen Levy,Brightbury,OK,334.48
+2024-08-01,Tênis,Calçados,1,140.07,Terry Scott,West Meganfort,IL,140.07
+2025-01-29,Camiseta,Vestuário,4,367.41,Leah Rodriguez,Port Codymouth,MS,1469.64
+2024-07-07,Óculos de Sol,Acessórios,1,218.6,Kristy Clark,New Michellemouth,WV,218.6
+2025-01-10,Boné,Acessórios,3,144.25,Toni Smith,South Kennethstad,KS,432.75
+2024-12-20,Calça Jeans,Vestuário,2,433.03,Anthony Norton,Morganport,KY,866.06
+2025-04-09,Óculos de Sol,Acessórios,1,493.28,Samantha Glover,Fitzgeraldchester,IA,493.28
+2025-03-09,Relógio,Acessórios,2,308.89,Claudia Moss,South Reginastad,VT,617.78
+2025-05-05,Boné,Acessórios,2,154.24,Barbara Russell,West Kevinfort,NM,308.48
+2025-02-11,Tênis,Calçados,3,481.97,Anna Anderson,Reynoldschester,MD,1445.91
+2025-01-02,Camiseta,Vestuário,1,363.04,Barbara Turner,Lake Christinefurt,LA,363.04
+2024-08-14,Óculos de Sol,Acessórios,4,236.54,Joanne Boyer,Jonathanland,OH,946.16
+2024-05-20,Camiseta,Vestuário,4,146.05,Brittany Walsh,South Benjamintown,IN,584.2
+2024-07-04,Tênis,Calçados,4,438.05,Maria Sexton,Ericshire,MD,1752.2
+2024-11-16,Boné,Acessórios,1,482.3,Nathan Smith,Aaronbury,KY,482.3
+2024-08-10,Calça Jeans,Vestuário,1,466.08,Megan Kim,South Joshuabury,ID,466.08
+2024-12-30,Relógio,Acessórios,3,364.02,Andre Ramirez,Barbaraview,MA,1092.06
+2024-10-15,Tênis,Calçados,1,331.17,Brady Mccoy,Gwendolynfurt,WY,331.17
+2025-04-21,Boné,Acessórios,2,150.73,Brian Olson,New Gregory,NE,301.46
+2024-10-24,Calça Jeans,Vestuário,4,362.5,Lisa Robinson,Erikburgh,HI,1450.0
+2025-02-14,Jaqueta,Vestuário,4,407.41,Timothy Stafford,East Alexanderport,WA,1629.64
+2024-05-22,Boné,Acessórios,4,187.58,Susan Bird,Barnesview,GA,750.32
+2024-12-28,Jaqueta,Vestuário,2,424.11,John Barrett,Ronaldside,CA,848.22
+2025-02-22,Boné,Acessórios,4,123.66,Brenda Edwards,New Scottfurt,GA,494.64
+2024-10-20,Tênis,Calçados,4,220.16,Jimmy Thomas,Torresburgh,SC,880.64
+2024-11-18,Boné,Acessórios,1,175.64,Taylor Johnson,Johnmouth,IL,175.64
+2025-03-20,Tênis,Calçados,3,473.04,Alicia Townsend,East Whitney,MT,1419.1200000000001
+2025-05-10,Boné,Acessórios,2,89.37,Nathan Warren,Leestad,NV,178.74
+2024-07-16,Tênis,Calçados,3,483.68,Robert Hebert,Whiteton,ID,1451.04
+2024-12-09,Relógio,Acessórios,2,432.93,Frederick Myers,Carneychester,NJ,865.86
+2024-07-14,Calça Jeans,Vestuário,2,346.45,Daniel Gonzalez,Lake Melissa,AR,692.9
+2024-09-04,Boné,Acessórios,5,492.36,Mr. Jeffrey Munoz MD,Obrienchester,AR,2461.8
+2025-04-06,Calça Jeans,Vestuário,3,269.68,Craig Schroeder,Paulmouth,RI,809.04
+2024-07-05,Mochila,Acessórios,4,221.0,Jennifer Hines,West Rodney,NJ,884.0
+2024-08-02,Camiseta,Vestuário,4,385.72,Scott Stewart,Salinasmouth,WV,1542.88
+2025-01-11,Calça Jeans,Vestuário,3,96.19,Teresa Manning,Jacksonhaven,DC,288.57
+2024-07-22,Jaqueta,Vestuário,2,86.06,Kristin Pierce,Alyssatown,OH,172.12
+2024-08-01,Jaqueta,Vestuário,1,124.98,Patricia Reid,Tinastad,WV,124.98
+2025-04-16,Boné,Acessórios,2,358.53,Kathleen Simmons,New Christianborough,MN,717.06
+2024-07-15,Relógio,Acessórios,2,285.08,William Brown,East Robert,MI,570.16
+2025-05-12,Calça Jeans,Vestuário,5,386.87,Kenneth Allen,South Thomasburgh,SC,1934.35
+2025-03-29,Óculos de Sol,Acessórios,5,291.28,Angela Sanchez,Seanton,PA,1456.3999999999999
+2024-06-15,Boné,Acessórios,3,459.06,Patricia Mitchell,Brandiland,HI,1377.18
+2024-09-05,Relógio,Acessórios,1,299.36,Nathaniel Powell,Watkinstown,CO,299.36
+2024-09-28,Jaqueta,Vestuário,4,357.08,Caleb Jacobs,Henryburgh,CT,1428.32
+2024-12-13,Óculos de Sol,Acessórios,5,409.7,Kayla Johnson,South Anna,NC,2048.5
+2024-07-11,Camiseta,Vestuário,5,281.45,Marc Moon,East Lawrenceport,VT,1407.25
+2025-04-13,Calça Jeans,Vestuário,2,467.15,Pamela Stone,Kristenfurt,CO,934.3
+2025-03-26,Mochila,Acessórios,4,410.58,James Morris,West Briannafort,HI,1642.32
+2024-12-03,Relógio,Acessórios,2,91.1,Alexis Hamilton MD,Jillton,CA,182.2
+2025-04-30,Óculos de Sol,Acessórios,4,476.72,Andrew Pittman,Gordonside,CT,1906.88
+2024-08-22,Calça Jeans,Vestuário,4,478.27,Joseph Peterson,Port Andrea,NC,1913.08
+2025-05-09,Camiseta,Vestuário,5,275.77,Victor Harvey,West Bryan,NC,1378.85
+2024-12-11,Óculos de Sol,Acessórios,5,93.2,Lydia Matthews,Raymondburgh,DE,466.0
+2024-09-08,Camiseta,Vestuário,1,323.84,Catherine Austin,Vaughnmouth,TN,323.84
+2024-09-18,Jaqueta,Vestuário,2,484.32,Peter Anderson,New Jillchester,NY,968.64
+2025-02-12,Calça Jeans,Vestuário,4,495.63,Jared Dorsey,North Karenmouth,NH,1982.52
+2024-09-15,Tênis,Calçados,5,194.58,Tina Alvarez,Lake Natalie,FL,972.9000000000001
+2024-05-31,Calça Jeans,Vestuário,4,59.35,Sean Cruz,Kathrynburgh,AK,237.4
+2024-07-24,Jaqueta,Vestuário,4,423.77,Susan Trujillo,Davidsonside,VT,1695.08
+2025-05-08,Mochila,Acessórios,2,423.61,Lee Williams,Romeroview,MD,847.22
+2025-03-27,Óculos de Sol,Acessórios,1,451.37,John Oliver,North Andrew,MN,451.37
+2024-09-01,Camiseta,Vestuário,4,128.7,Melissa Stone,West Jamesmouth,WA,514.8
+2025-03-05,Óculos de Sol,Acessórios,4,134.15,Dr. Wendy Williams DVM,South Michele,MT,536.6
+2025-01-14,Mochila,Acessórios,5,486.11,Peter Miller,Lake Brianshire,CA,2430.55
+2025-01-05,Calça Jeans,Vestuário,3,196.17,Ronald Williams MD,Ericksonview,KY,588.51
+2024-10-23,Óculos de Sol,Acessórios,4,401.09,Kathleen Long,Robinsontown,MO,1604.36
+2024-06-06,Boné,Acessórios,2,311.78,Juan Myers,South Georgeton,TX,623.56
+2025-05-13,Óculos de Sol,Acessórios,5,146.21,Cheyenne Charles,Robertmouth,MN,731.0500000000001
+2024-11-24,Óculos de Sol,Acessórios,1,108.05,Glenda Wyatt,Amandaborough,ND,108.05
+2024-10-31,Jaqueta,Vestuário,5,451.83,Betty Price,Kellybury,AL,2259.15
+2024-12-28,Tênis,Calçados,2,364.45,Katherine Lee,East Jason,MN,728.9
+2024-10-15,Óculos de Sol,Acessórios,1,55.44,Olivia Phillips,Gravesview,CA,55.44
+2025-01-06,Boné,Acessórios,2,424.78,Carlos Henry,Markborough,CA,849.56
+2025-01-08,Tênis,Calçados,4,422.73,Patricia Tucker,Frenchmouth,DC,1690.92
+2024-11-10,Tênis,Calçados,1,179.6,Bradley Murphy,Robertton,NV,179.6
+2024-07-04,Relógio,Acessórios,2,60.0,Sandra Poole,South Jenniferton,CT,120.0
+2025-04-24,Calça Jeans,Vestuário,2,477.88,Morgan Wu,West Thomas,NE,955.76
+2025-03-29,Boné,Acessórios,1,399.22,Karina King,West Michelle,MT,399.22
+2025-05-05,Tênis,Calçados,2,87.56,Jeffrey Brown,Christophermouth,WI,175.12
+2025-04-16,Jaqueta,Vestuário,1,176.63,Ryan Mcneil,Crystalland,MD,176.63
+2025-01-06,Óculos de Sol,Acessórios,2,314.51,Amy Arnold,Port Steven,VA,629.02
+2024-05-21,Calça Jeans,Vestuário,3,358.78,Christine Moyer,Sullivanview,AZ,1076.34
+2025-01-16,Boné,Acessórios,1,247.8,Donna Walker,Lake Cassandraville,AK,247.8
+2025-01-01,Relógio,Acessórios,3,69.55,James Burke,Samanthamouth,NM,208.64999999999998
+2024-07-06,Calça Jeans,Vestuário,4,365.37,Paul Hawkins MD,Port Richard,MN,1461.48
+2025-01-10,Relógio,Acessórios,1,499.08,Timothy Arnold,Tammyview,VA,499.08
+2024-12-12,Óculos de Sol,Acessórios,4,149.26,Matthew Hamilton,Port Davidhaven,MN,597.04
+2024-10-10,Mochila,Acessórios,5,241.34,Susan Silva,Adamview,MN,1206.7
+2024-09-26,Tênis,Calçados,5,68.81,Virginia Miller,Isaacland,KS,344.05
+2024-06-25,Relógio,Acessórios,3,61.21,David Shelton,Adamview,SC,183.63
+2025-01-31,Jaqueta,Vestuário,2,456.87,Deborah Harris,Cochranfurt,AL,913.74
+2024-09-16,Calça Jeans,Vestuário,4,428.15,Micheal Michael,Wongland,AK,1712.6
+2024-07-11,Boné,Acessórios,3,434.26,Colleen Brown,West Mackenzie,MN,1302.78
+2024-10-25,Boné,Acessórios,2,222.63,Brandon Mcintosh,Tracyton,CT,445.26
+2024-08-06,Tênis,Calçados,1,156.76,Aaron Williams,Adrianbury,DE,156.76
+2025-02-03,Óculos de Sol,Acessórios,2,157.4,Julia Adams,Michaelton,MT,314.8
+2024-06-14,Camiseta,Vestuário,1,223.66,Troy Spencer,Garzatown,DE,223.66
+2024-08-22,Mochila,Acessórios,5,152.68,Amy Wilson,New Johnnyhaven,ME,763.4000000000001
+2024-09-19,Mochila,Acessórios,4,351.19,Mrs. Catherine Alvarez MD,South Rhondafort,MN,1404.76
+2024-09-28,Mochila,Acessórios,3,324.64,Ronald Todd MD,Port Jodybury,KY,973.92
+2024-06-10,Tênis,Calçados,5,245.42,Kelly Smith,South Jessicahaven,NE,1227.1
+2024-11-04,Boné,Acessórios,5,336.17,Timothy Giles,Lake Patriciaside,MT,1680.8500000000001
+2024-10-27,Tênis,Calçados,3,371.58,Wesley Raymond,Williamshaven,AL,1114.74
+2024-06-03,Jaqueta,Vestuário,2,368.95,James Brooks,West Carlosmouth,WY,737.9
+2025-05-07,Boné,Acessórios,5,351.29,Dawn Scott,New Angelaview,NV,1756.45
+2024-09-02,Boné,Acessórios,5,121.25,April Jordan,Port Amyborough,OR,606.25
+2025-04-06,Jaqueta,Vestuário,1,455.37,Ryan Faulkner,South Nicholas,KS,455.37
+2025-01-09,Mochila,Acessórios,4,185.38,Tanya Hoffman,Millsview,AK,741.52
+2024-08-06,Tênis,Calçados,5,194.56,Caleb Myers,East Melindastad,LA,972.8
+2025-02-22,Jaqueta,Vestuário,5,95.56,Shawn Flores,Julieport,VA,477.8
+2025-01-20,Jaqueta,Vestuário,5,214.74,Jennifer Soto,Klinefurt,ID,1073.7
+2024-10-12,Tênis,Calçados,2,248.45,Ana Vazquez,Wellsport,TN,496.9
+2024-10-17,Boné,Acessórios,5,380.81,Wanda Hernandez,Kellyfort,WA,1904.05
+2025-02-07,Jaqueta,Vestuário,2,474.07,Mary Buchanan,Bethview,IA,948.14
+2024-05-29,Calça Jeans,Vestuário,3,103.33,Matthew Brewer,Jessefort,AK,309.99
+2025-01-24,Calça Jeans,Vestuário,4,356.17,Leon Ramirez,West Wandaburgh,AL,1424.68
+2025-02-19,Mochila,Acessórios,4,136.71,John Smith,East Todd,ND,546.84
+2024-05-21,Jaqueta,Vestuário,5,413.23,Kathleen Koch,Mayermouth,OK,2066.15
+2024-07-14,Mochila,Acessórios,5,97.36,Jennifer Townsend,Gardnerstad,WI,486.8
+2025-02-11,Boné,Acessórios,1,205.57,Pamela Estrada,Lake Kelly,WI,205.57
+2024-10-20,Mochila,Acessórios,4,163.84,Lindsey Lopez,Port Alexafurt,ND,655.36
+2024-09-21,Mochila,Acessórios,2,243.89,Shannon Scott,North Samuel,CT,487.78
+2025-01-23,Relógio,Acessórios,1,274.94,Mary Stanton,Jennifermouth,IA,274.94
+2024-06-17,Calça Jeans,Vestuário,4,352.38,John Krause,Brandychester,AR,1409.52
+2025-04-29,Relógio,Acessórios,1,367.74,Rachel Galloway,Gayport,LA,367.74
+2025-01-11,Tênis,Calçados,1,118.31,Tina Weaver,South Rickey,NC,118.31
+2025-03-26,Boné,Acessórios,2,100.29,Dustin Diaz,Ashleyfurt,IA,200.58
+2024-09-27,Mochila,Acessórios,4,126.89,Darius Mendoza,Berryfort,VA,507.56
+2024-10-25,Tênis,Calçados,4,408.36,Dawn Myers,Amyfort,WA,1633.44
+2025-02-20,Tênis,Calçados,2,264.5,Shawn Martin,Josephchester,AK,529.0
+2024-06-07,Jaqueta,Vestuário,5,436.01,Scott Williams,Port Lauren,NE,2180.05
+2024-06-03,Camiseta,Vestuário,5,300.72,Allison Peters,Mollymouth,IA,1503.6000000000001
+2024-09-04,Calça Jeans,Vestuário,5,380.95,James Simmons,Christophershire,MO,1904.75
+2025-03-02,Tênis,Calçados,2,281.82,Monica White,Lake John,GA,563.64
+2025-05-09,Calça Jeans,Vestuário,2,34.04,Lauren Hunt,Donaldton,LA,68.08
+2024-09-19,Óculos de Sol,Acessórios,1,202.59,Michelle Butler,New Nicholas,RI,202.59
+2024-10-12,Boné,Acessórios,2,418.08,Ronald Cooper,Port Donaldhaven,MD,836.16
+2024-12-03,Relógio,Acessórios,3,250.58,Lawrence Soto,Port Andreachester,NE,751.74
+2025-03-16,Jaqueta,Vestuário,3,463.4,Daniel Ramirez,Jessemouth,NV,1390.1999999999998
+2024-08-16,Boné,Acessórios,1,171.93,Peter Marshall,North Victoriaport,FL,171.93
+2024-12-02,Boné,Acessórios,4,263.05,Steven Walker,Jameschester,NY,1052.2
+2024-11-14,Boné,Acessórios,4,499.32,Benjamin Gardner,East Kathleenton,NM,1997.28
+2024-10-27,Jaqueta,Vestuário,2,480.65,Tammy Carr,Walterside,AZ,961.3
+2024-11-21,Boné,Acessórios,3,334.17,Debra King,Lake Melissa,WV,1002.51
+2024-06-05,Relógio,Acessórios,5,144.24,Brianna Buck,New Shannon,GA,721.2
+2024-06-15,Boné,Acessórios,1,499.16,Mrs. Carol Martinez,Palmertown,AZ,499.16
+2024-09-16,Óculos de Sol,Acessórios,4,464.21,Kathleen Anderson,Garciafort,CT,1856.84
+2024-08-19,Calça Jeans,Vestuário,5,149.6,Mark Cochran,Huynhtown,KY,748.0
+2024-06-05,Mochila,Acessórios,3,66.6,David Winters,Robinsonstad,KS,199.79999999999998
+2025-02-03,Óculos de Sol,Acessórios,4,88.16,Jennifer Allen,East Chadbury,NJ,352.64
+2024-10-14,Jaqueta,Vestuário,3,62.26,Colleen Ward,New Kathyview,CT,186.78
+2024-05-27,Óculos de Sol,Acessórios,2,109.16,Kaylee Hays,Emilymouth,AL,218.32
+2024-05-28,Boné,Acessórios,5,145.96,Lisa Rivers,Jamesstad,ND,729.8000000000001
+2024-11-16,Calça Jeans,Vestuário,1,398.2,Harold Stewart,Justinport,HI,398.2
+2024-07-25,Tênis,Calçados,4,165.71,Molly Jackson,North Brandonmouth,AZ,662.84
+2024-11-19,Óculos de Sol,Acessórios,2,121.11,Caleb Morgan,Lake Meganburgh,NV,242.22
+2025-02-18,Calça Jeans,Vestuário,5,251.75,Daniel Eaton,New Dennisport,OR,1258.75
+2024-09-28,Camiseta,Vestuário,1,177.51,Nicole Murillo,Mcdanielmouth,MN,177.51
+2024-12-14,Boné,Acessórios,4,342.46,Danielle Reyes,Carloschester,WA,1369.84
+2024-05-28,Relógio,Acessórios,4,42.24,Amanda Cooper,Brianport,MD,168.96
+2024-09-27,Jaqueta,Vestuário,4,271.86,Daniel Moore,Lake Shannontown,CO,1087.44
+2024-09-06,Óculos de Sol,Acessórios,2,483.54,Amber Harrell,Hollandstad,AL,967.08
+2024-09-01,Óculos de Sol,Acessórios,4,135.92,Michael Pittman,North Donaldshire,RI,543.68
+2024-06-17,Relógio,Acessórios,1,257.2,Jonathan Hall,South Colton,NE,257.2
+2024-11-27,Camiseta,Vestuário,4,281.9,Dustin Mendez,Newtonton,KY,1127.6
+2025-04-14,Calça Jeans,Vestuário,3,92.34,Kelly Wilson,Davidton,HI,277.02
+2025-04-04,Mochila,Acessórios,4,273.94,Adrian Hart,Port Yeseniabury,OK,1095.76
+2024-06-18,Calça Jeans,Vestuário,5,303.79,Anthony Thompson,East Wayne,WI,1518.95
+2024-05-27,Tênis,Calçados,4,207.98,Brittney Becker,North Laura,WV,831.92
+2024-09-13,Calça Jeans,Vestuário,1,297.75,Jennifer Crosby,West Andrew,IL,297.75
+2025-04-18,Óculos de Sol,Acessórios,3,147.99,Amy Brown,Thomasfort,VA,443.97
+2024-11-10,Calça Jeans,Vestuário,5,455.12,Melissa Ross,Joneshaven,AL,2275.6
+2025-01-16,Óculos de Sol,Acessórios,3,257.7,James Collins,West Kevin,RI,773.0999999999999
+2024-11-15,Jaqueta,Vestuário,3,239.64,Taylor Strickland,Sarahchester,PA,718.92
+2025-01-20,Tênis,Calçados,4,258.87,Marcus Myers,South Marcusville,ME,1035.48
+2024-11-06,Mochila,Acessórios,2,195.45,Jonathan Jones,East Justin,OH,390.9
+2024-11-25,Boné,Acessórios,2,215.2,Robert Watson,East Brian,KS,430.4
+2024-11-05,Calça Jeans,Vestuário,5,356.49,Toni Shepherd,Knightton,HI,1782.45
+2024-12-16,Boné,Acessórios,4,251.91,Christopher Romero,Russellton,MO,1007.64
+2024-08-02,Relógio,Acessórios,2,396.5,Richard Ramos,West James,VA,793.0
+2025-03-17,Jaqueta,Vestuário,4,478.8,Karen Reed,Brycefort,AK,1915.2
+2024-06-09,Calça Jeans,Vestuário,4,283.1,Jonathan White,North Brandonfurt,IA,1132.4
+2025-02-10,Jaqueta,Vestuário,4,85.53,Kevin Decker,Huntland,FL,342.12
+2025-01-13,Jaqueta,Vestuário,2,103.29,James Parsons,Lake Gregoryburgh,UT,206.58
+2024-09-21,Jaqueta,Vestuário,4,428.85,Robert Ray,Lake Johnborough,CT,1715.4
+2024-06-21,Tênis,Calçados,1,373.24,Frank Martin,Haleborough,CA,373.24
+2024-09-17,Tênis,Calçados,1,191.84,Michaela Perry,Lambport,HI,191.84
+2025-03-22,Tênis,Calçados,4,178.7,Michelle Martin,Anthonymouth,NV,714.8
+2024-08-15,Óculos de Sol,Acessórios,5,278.44,Amanda Jones,Maysside,DE,1392.2
+2025-02-21,Mochila,Acessórios,3,78.07,Holly Perry,Smithshire,DE,234.20999999999998
+2025-05-10,Boné,Acessórios,2,444.06,Melanie Bryant,Amandaport,CT,888.12
+2025-02-26,Mochila,Acessórios,1,139.93,James Smith,South Gregoryburgh,OK,139.93
+2024-09-05,Jaqueta,Vestuário,2,115.52,Jamie Gonzalez,Jonathonview,VT,231.04
+2025-01-12,Relógio,Acessórios,1,319.26,Juan Garrett,Aprilhaven,SD,319.26
+2024-06-18,Relógio,Acessórios,5,161.2,Sean Scott,Boydtown,MA,806.0
+2024-08-21,Mochila,Acessórios,4,191.62,Angel Brown,New Kristin,MA,766.48
+2024-10-16,Calça Jeans,Vestuário,5,129.25,Amber Davis,East Craig,UT,646.25
+2024-05-24,Boné,Acessórios,3,351.58,Dr. Dale Lee,Lake Daniel,MT,1054.74
+2024-07-22,Boné,Acessórios,1,358.8,Eric Fletcher,West Gary,RI,358.8
+2024-09-28,Mochila,Acessórios,3,122.8,Michelle Marshall,Hammondfort,WV,368.4
+2025-03-26,Boné,Acessórios,3,388.21,Amanda Nguyen,Burnstown,DE,1164.6299999999999
+2024-11-08,Relógio,Acessórios,2,125.5,Rachel Mccoy,Lake Douglas,WA,251.0
+2024-12-04,Boné,Acessórios,4,330.46,Jesse Mcdaniel,North Eric,ID,1321.84
+2024-06-12,Calça Jeans,Vestuário,3,453.23,Amanda Williams,Smithfort,CT,1359.69
+2024-08-14,Jaqueta,Vestuário,4,333.8,Kristine Burns,South Michael,OK,1335.2
+2024-07-12,Camiseta,Vestuário,4,399.06,Nicole Welch,Robertport,IN,1596.24
+2024-08-26,Tênis,Calçados,2,250.5,Adam Gilbert,Johnland,OH,501.0
+2025-03-11,Óculos de Sol,Acessórios,1,122.4,Charles Heath,South Amy,ID,122.4
+2025-02-03,Tênis,Calçados,2,111.09,Tonya Graham,East Colleen,MA,222.18
+2024-12-22,Mochila,Acessórios,5,455.04,Robert Howard,Lake Christopherfurt,GA,2275.2000000000003
+2024-10-25,Relógio,Acessórios,2,161.12,Tammy Davies,Allisonport,MA,322.24
+2025-02-12,Óculos de Sol,Acessórios,4,100.61,Sheila Davis DVM,Bennettshire,NY,402.44
+2024-12-11,Tênis,Calçados,5,111.81,Kayla Duke,Port Alejandroburgh,IL,559.05
+2024-08-30,Jaqueta,Vestuário,5,65.19,Luke Molina,Housestad,IA,325.95
+2025-03-03,Jaqueta,Vestuário,2,466.43,Kathleen Kelley,Port Pamela,WA,932.86
+2024-09-05,Relógio,Acessórios,5,266.47,Andrea Davis,Cruzburgh,NV,1332.3500000000001
+2024-09-15,Tênis,Calçados,3,434.5,Doris Austin,Port Angela,AZ,1303.5
+2024-05-26,Relógio,Acessórios,5,436.17,Christopher Morris,Princeborough,RI,2180.85
+2025-05-13,Jaqueta,Vestuário,1,473.18,Felicia Avila,South Alyssa,CO,473.18
+2024-11-20,Tênis,Calçados,1,108.37,April Manning,Johnsonberg,CT,108.37
+2024-12-29,Camiseta,Vestuário,3,276.54,Stephanie Horn,Port Pamelaside,NV,829.6200000000001
+2024-10-24,Calça Jeans,Vestuário,2,265.96,Tina Aguilar,Ryanstad,CT,531.92
+2025-02-16,Óculos de Sol,Acessórios,4,386.82,Jamie King,Grossport,HI,1547.28
+2025-01-13,Tênis,Calçados,5,65.63,Lisa Paul,Harrisshire,WA,328.15
+2025-02-24,Calça Jeans,Vestuário,4,395.06,Ashlee Rogers,South John,RI,1580.24
+2024-05-19,Óculos de Sol,Acessórios,4,194.52,David Barker,North Stephanieton,AZ,778.08
+2025-03-30,Calça Jeans,Vestuário,1,473.92,Lindsey Reed,Crystalton,SC,473.92
+2024-09-29,Camiseta,Vestuário,3,126.91,Mark Griffin,Camposborough,NH,380.73
+2024-08-22,Boné,Acessórios,2,90.12,Mark Taylor,Mcmillanland,UT,180.24
+2024-10-21,Óculos de Sol,Acessórios,3,136.06,Mary Lane,North Willie,NJ,408.18
+2024-06-21,Relógio,Acessórios,3,34.22,Jonathan Tran MD,Thomasview,LA,102.66
+2025-05-03,Relógio,Acessórios,1,406.72,Krista Sandoval,New Brittany,CA,406.72
+2024-05-26,Boné,Acessórios,2,433.92,Susan Thomas,Barberton,AL,867.84
+2025-02-27,Boné,Acessórios,2,187.19,Robin Cooper,North Kylemouth,NY,374.38
+2025-02-03,Óculos de Sol,Acessórios,1,181.45,Joseph Guerrero,Millerfort,WY,181.45
+2024-09-27,Mochila,Acessórios,2,437.3,Matthew Parrish,North Brandi,NV,874.6
+2025-01-08,Relógio,Acessórios,3,149.93,Stephanie Bell,Guerreroside,VA,449.79
+2024-12-14,Boné,Acessórios,2,350.45,Jeanette Travis,Taylorport,OH,700.9
+2024-08-11,Óculos de Sol,Acessórios,5,169.14,Lisa Price,Karenstad,PA,845.6999999999999
+2024-11-05,Boné,Acessórios,4,222.0,Whitney King,South Natalie,ID,888.0
+2025-03-18,Boné,Acessórios,1,355.21,Donna Payne,East Christinamouth,LA,355.21
+2024-10-28,Tênis,Calçados,3,39.92,Tyler Ryan,Sandrabury,PA,119.76
+2024-12-03,Relógio,Acessórios,2,43.94,Mrs. Cynthia Griffin MD,Wilsonton,RI,87.88
+2025-02-27,Tênis,Calçados,3,113.98,William Burton,Jasonchester,VT,341.94
+2025-01-16,Relógio,Acessórios,4,351.25,Justin Clayton,Lake Donaldberg,KY,1405.0
+2024-07-18,Jaqueta,Vestuário,1,368.77,Darlene Walker,Gardnerview,MD,368.77
+2024-05-25,Boné,Acessórios,3,168.65,Sarah Newman MD,Montgomeryland,HI,505.95000000000005
+2024-11-21,Calça Jeans,Vestuário,2,57.8,Allison Jones,Jennashire,KS,115.6
+2024-10-15,Calça Jeans,Vestuário,3,143.3,Mr. Jacob Cox Jr.,North Hollyside,KS,429.90000000000003
+2025-05-08,Jaqueta,Vestuário,4,201.61,Allison Boyd,Mckayburgh,UT,806.44
+2024-12-05,Relógio,Acessórios,3,250.08,William Boyer,Petersonmouth,NC,750.24
+2024-12-19,Calça Jeans,Vestuário,4,300.56,Kristin Sawyer,West Meagan,OK,1202.24
+2025-05-05,Camiseta,Vestuário,3,449.84,Cheryl Reed DDS,Dayview,IA,1349.52
+2024-09-29,Mochila,Acessórios,5,166.61,Peter Mitchell,Wheelerstad,AL,833.0500000000001
+2025-03-26,Tênis,Calçados,4,470.89,Susan Anderson,New Michaelchester,AZ,1883.56
+2024-05-25,Óculos de Sol,Acessórios,2,370.5,Ronald Malone,Lake Stacyview,TN,741.0
+2024-10-30,Mochila,Acessórios,3,398.07,Mitchell Blackwell,Megantown,NY,1194.21
+2025-01-25,Relógio,Acessórios,4,412.63,Daniel Harris,Matthewchester,FL,1650.52
+2024-12-29,Jaqueta,Vestuário,1,124.41,Thomas Mann,Johnsonburgh,OK,124.41
+2024-07-14,Óculos de Sol,Acessórios,5,279.51,Bradley Scott,Cindyland,PA,1397.55
+2024-09-21,Jaqueta,Vestuário,2,204.55,Cynthia Jensen,North Tamara,VA,409.1
+2024-06-17,Relógio,Acessórios,5,203.66,Mandy Bishop,Martinezton,AK,1018.3
+2025-03-20,Camiseta,Vestuário,3,40.43,Jonathan Williams,Thomasfurt,NY,121.28999999999999
+2025-04-30,Óculos de Sol,Acessórios,4,351.03,Jonathan Arnold,New Katherine,FL,1404.12
+2025-04-03,Relógio,Acessórios,4,425.01,Amanda King,Lake Amanda,MA,1700.04
+2025-02-01,Relógio,Acessórios,4,330.34,Hannah Cole,Brianfort,WV,1321.36
+2024-10-25,Óculos de Sol,Acessórios,4,419.02,Cynthia Lam,Mooreton,IA,1676.08
+2024-08-14,Camiseta,Vestuário,4,327.59,Mary Williams,Jenniferton,AR,1310.36
+2024-08-26,Tênis,Calçados,4,298.72,Ryan Holmes,Port Dustin,ME,1194.88
+2024-09-01,Óculos de Sol,Acessórios,2,136.8,Logan Lopez,East Richardchester,DC,273.6
+2024-07-31,Boné,Acessórios,3,88.52,Lance Ruiz,New Elizabethbury,AL,265.56
+2024-07-30,Boné,Acessórios,4,499.55,Brendan Peters,North Debra,IN,1998.2
+2025-04-03,Calça Jeans,Vestuário,1,421.48,Robert Howard,West Natalie,NJ,421.48
+2024-05-31,Mochila,Acessórios,2,217.93,Lisa Michael,Michelleshire,CT,435.86
+2025-02-22,Óculos de Sol,Acessórios,1,42.39,Cindy Rios,Donnaberg,SC,42.39
+2024-05-25,Relógio,Acessórios,5,446.61,Joshua May,Port Donald,NH,2233.05
+2024-06-12,Mochila,Acessórios,4,43.0,Thomas Ramos,Port Victoriaport,MS,172.0
+2024-09-03,Calça Jeans,Vestuário,4,66.46,Brianna Malone,North Brian,MO,265.84
+2024-06-11,Boné,Acessórios,4,475.69,Timothy Pierce,South Craigbury,AZ,1902.76
+2025-03-02,Boné,Acessórios,4,359.92,Mrs. Gabriela Deleon PhD,Port Stephanie,LA,1439.68
+2024-12-22,Calça Jeans,Vestuário,4,213.93,David Moss,Ambermouth,ND,855.72
+2025-01-22,Jaqueta,Vestuário,4,441.77,Miss Amber Allen,Matthewchester,NE,1767.08
+2025-01-10,Calça Jeans,Vestuário,3,395.35,Amanda Soto,Zimmermanberg,NC,1186.0500000000002
+2024-08-03,Relógio,Acessórios,4,133.24,Charles Smith,Jasmineshire,ND,532.96
+2024-06-20,Óculos de Sol,Acessórios,4,215.02,David Wise,Port Antonio,KS,860.08
+2024-05-25,Tênis,Calçados,5,216.62,Stephanie Kelley,New Heathermouth,ID,1083.1
+2025-03-15,Boné,Acessórios,3,33.54,Brian Pollard,South Cody,IL,100.62
+2025-03-26,Relógio,Acessórios,5,369.97,Brett Copeland,North Laura,AZ,1849.8500000000001
+2024-06-19,Relógio,Acessórios,4,75.24,Rebecca Cole,Lake Tammy,DE,300.96
+2025-01-22,Mochila,Acessórios,2,309.74,Adam Wright,South Jodyhaven,IN,619.48
+2024-12-05,Relógio,Acessórios,2,75.61,Adrienne Moreno,Martinfurt,WA,151.22
+2025-03-19,Óculos de Sol,Acessórios,1,304.99,Thomas Fisher,Laurenbury,VT,304.99
+2024-09-17,Óculos de Sol,Acessórios,1,384.15,Richard Perry,West Susan,PA,384.15
+2024-07-23,Jaqueta,Vestuário,4,492.37,Kristina Richardson,Joseside,VA,1969.48
+2024-12-08,Calça Jeans,Vestuário,4,423.65,Daniel Love,Butlerside,WV,1694.6
+2025-05-11,Calça Jeans,Vestuário,4,136.44,Susan Turner,Arthurview,OH,545.76
+2025-02-13,Óculos de Sol,Acessórios,3,183.28,Frank Crawford,Lake Anne,OK,549.84
+2024-06-20,Óculos de Sol,Acessórios,2,267.6,Louis Smith,West David,SD,535.2
+2024-08-08,Tênis,Calçados,1,282.78,Christopher Walker,Hansenmouth,IL,282.78
+2024-09-27,Mochila,Acessórios,2,377.44,Michael Henry,Stricklandhaven,NJ,754.88
+2025-03-26,Tênis,Calçados,5,302.99,Karen Hill,East Robertburgh,ME,1514.95
+2024-12-09,Tênis,Calçados,4,82.83,Sean Taylor,Valeriehaven,ME,331.32
+2025-01-21,Mochila,Acessórios,3,133.89,Matthew Morgan,Kaylatown,HI,401.66999999999996
+2024-10-12,Camiseta,Vestuário,4,243.29,Debra Gonzalez,Martinland,NE,973.16
+2024-05-30,Relógio,Acessórios,4,195.14,Shirley Young,Lake Scott,NM,780.56
+2024-07-05,Calça Jeans,Vestuário,3,110.56,Mrs. Heather Sanchez,East Craigville,WA,331.68
+2025-04-05,Camiseta,Vestuário,1,389.89,Holly Adams,Vanessamouth,NE,389.89
+2024-07-24,Calça Jeans,Vestuário,5,404.94,Mrs. Dawn Adams,Donnachester,NE,2024.7
+2025-02-28,Boné,Acessórios,1,394.05,Christopher Faulkner,Port Stefaniechester,KS,394.05
+2024-06-07,Mochila,Acessórios,2,316.46,Philip Rodriguez,Frankchester,OK,632.92
+2024-10-30,Óculos de Sol,Acessórios,4,200.15,Jacob Murphy,Lake Lisaburgh,IA,800.6
+2025-01-22,Calça Jeans,Vestuário,5,492.84,Nicole Stein,Miguelfurt,ND,2464.2
+2024-06-29,Jaqueta,Vestuário,5,121.83,Angela Lopez,Smithville,OR,609.15
+2024-11-02,Tênis,Calçados,1,390.01,Howard Coleman,East Alexandrafurt,GA,390.01
+2025-04-21,Boné,Acessórios,2,493.6,Kathleen Flores,Makaylaside,WV,987.2
+2024-12-11,Camiseta,Vestuário,5,468.57,Sean Koch,Blanchardstad,CA,2342.85
+2024-06-05,Calça Jeans,Vestuário,2,102.55,Sydney Moore,Lake Stevenstad,MO,205.1
+2025-05-15,Tênis,Calçados,3,184.71,Katie Hernandez,West Ryanmouth,VT,554.13
+2024-07-30,Relógio,Acessórios,3,447.84,Allison Reed,South Cherylfurt,ND,1343.52
+2024-06-01,Calça Jeans,Vestuário,3,422.77,Alexandra Fox,Floresville,FL,1268.31
+2025-01-09,Óculos de Sol,Acessórios,3,55.21,Molly Frye,Davidstad,TN,165.63
+2025-04-06,Jaqueta,Vestuário,5,117.88,Michael Ramos,West Jasmine,NY,589.4
+2024-08-27,Jaqueta,Vestuário,4,396.66,Logan Reed,Port Gwendolyn,VT,1586.64
+2024-08-06,Boné,Acessórios,2,253.78,Jennifer Hart,Millerside,OR,507.56
+2024-07-17,Calça Jeans,Vestuário,4,373.04,Catherine Smith,Nunezstad,MD,1492.16
+2024-07-20,Boné,Acessórios,2,61.95,Charles Jackson,Floresbury,NV,123.9
+2025-05-03,Jaqueta,Vestuário,3,371.74,Jeremy Harris,Rodneyport,WA,1115.22
+2024-09-13,Jaqueta,Vestuário,1,272.71,Carol Yang,Lake William,AR,272.71
+2024-07-29,Jaqueta,Vestuário,5,169.25,Joseph Holt,Marissaborough,UT,846.25
+2025-01-17,Tênis,Calçados,2,302.63,Amanda Miller,Yvonnehaven,SD,605.26
+2025-05-18,Tênis,Calçados,4,152.64,Scott Salazar,Roberttown,KS,610.56
+2025-02-10,Boné,Acessórios,3,98.22,Matthew Floyd,Port Erica,AR,294.65999999999997
+2025-03-12,Mochila,Acessórios,3,39.49,Cindy Barron,Jacksonstad,AK,118.47
+2024-08-20,Relógio,Acessórios,1,377.34,Maxwell Johnson,Sarahville,KY,377.34
+2025-01-12,Boné,Acessórios,1,194.27,Raymond Mcdonald,East Jenniferland,MN,194.27
+2024-07-24,Jaqueta,Vestuário,5,354.18,Kenneth Jones,Jasmineside,SC,1770.9
+2024-11-24,Jaqueta,Vestuário,4,431.26,Richard Choi,Josephbury,OR,1725.04
+2025-02-08,Óculos de Sol,Acessórios,4,253.39,Ronald Reynolds,East Craigstad,OR,1013.56
+2025-02-18,Óculos de Sol,Acessórios,3,93.81,Frances Taylor,Michellestad,TN,281.43
+2025-04-18,Boné,Acessórios,1,236.91,Mrs. Samantha Mendoza MD,Meganview,WY,236.91
+2025-02-12,Camiseta,Vestuário,1,301.74,William Huynh,Danielside,UT,301.74
+2025-01-23,Jaqueta,Vestuário,5,261.54,Lee Shaw,Spencermouth,VA,1307.7
+2025-02-01,Boné,Acessórios,3,135.23,Nancy Weber,New Stevenchester,OH,405.68999999999994
+2024-09-22,Camiseta,Vestuário,2,324.33,Alicia Holden,South Jamesberg,MA,648.66
+2024-11-08,Camiseta,Vestuário,1,247.46,Daniel Coleman,Michaelberg,IL,247.46
+2025-02-02,Camiseta,Vestuário,1,118.88,Robert Rosario,East Robertfort,NM,118.88
+2025-03-19,Boné,Acessórios,3,409.75,Jennifer Johnson,East Ashleeland,WV,1229.25
+2024-09-23,Boné,Acessórios,5,178.29,Kevin Lane,North Andreaborough,AK,891.4499999999999
+2024-07-07,Jaqueta,Vestuário,1,327.47,Michael Cisneros,Lake Javier,IN,327.47
+2025-03-30,Boné,Acessórios,3,341.02,Debra Rocha,Port Brandonbury,TX,1023.06
+2024-07-12,Mochila,Acessórios,4,310.02,Janice Joseph,East Kristina,MO,1240.08
+2025-02-16,Óculos de Sol,Acessórios,3,442.73,Stephanie Collier,Kaiserstad,OH,1328.19
+2024-11-29,Calça Jeans,Vestuário,1,264.65,Amy Pratt,Santiagoborough,DC,264.65
+2024-12-29,Boné,Acessórios,4,173.19,Michael Burke,Loribury,AL,692.76
+2025-04-19,Calça Jeans,Vestuário,4,107.73,Jessica Hardy,New Markfurt,IL,430.92
+2024-11-25,Relógio,Acessórios,4,419.74,Michael Reed,New Robertton,IA,1678.96
+2024-08-14,Calça Jeans,Vestuário,1,411.98,Emily Carpenter,West Jennifershire,GA,411.98
+2024-11-22,Relógio,Acessórios,5,176.47,Michael Glenn,Kennethside,WV,882.35
+2024-08-22,Calça Jeans,Vestuário,2,400.55,Eric Oliver,Cuevasberg,CA,801.1
+2025-05-17,Camiseta,Vestuário,1,219.3,Karen Rivas,Lucashaven,DE,219.3
+2024-07-23,Mochila,Acessórios,2,356.2,Katelyn Fisher,Clarkhaven,CA,712.4
+2024-11-16,Mochila,Acessórios,4,303.06,Cindy Santiago,Harrishaven,WI,1212.24
+2024-11-30,Tênis,Calçados,1,180.34,Amy Norton,Ashleyview,MS,180.34
+2024-08-17,Mochila,Acessórios,1,276.36,Bradley Gray,North Jenna,NC,276.36
+2025-03-08,Tênis,Calçados,1,492.22,Herbert Herman,Jonesside,IA,492.22
+2024-06-22,Relógio,Acessórios,1,85.56,Anita Livingston,North Sharonview,VA,85.56
+2025-01-13,Mochila,Acessórios,3,265.99,Nicole Robinson,Andreafort,MA,797.97
+2024-07-08,Mochila,Acessórios,2,442.67,Susan Douglas,Robertside,MT,885.34
+2025-05-05,Camiseta,Vestuário,4,471.64,Michael Rivera,North Elizabethport,LA,1886.56
+2024-07-10,Camiseta,Vestuário,4,122.43,Lauren Riley,Robertchester,WY,489.72
+2024-10-05,Mochila,Acessórios,3,175.31,Beth Brown,Port Rhondaland,SD,525.9300000000001
+2024-09-26,Jaqueta,Vestuário,1,292.41,Marcus Hawkins,Howardmouth,AR,292.41
+2025-02-20,Calça Jeans,Vestuário,5,430.95,Alexander Goodman,North Nicholasmouth,WY,2154.75
+2024-08-11,Calça Jeans,Vestuário,1,110.66,Brian Johnson,Adrianfort,LA,110.66
+2025-04-16,Camiseta,Vestuário,1,301.49,Crystal Henderson,Madisonton,ND,301.49
+2024-08-17,Mochila,Acessórios,3,70.8,Mr. Larry Bennett,Lake Julie,NV,212.39999999999998
+2024-08-06,Jaqueta,Vestuário,2,48.11,Kathleen Coleman,North Alyssaside,AL,96.22
+2024-06-18,Tênis,Calçados,2,399.79,Ronald Phillips,New Laura,FL,799.58
+2024-09-24,Camiseta,Vestuário,2,98.81,Tyler Haas,Carrfurt,IA,197.62
+2024-12-08,Óculos de Sol,Acessórios,3,209.36,Michael Smith,Jameshaven,AR,628.08
+2024-08-08,Relógio,Acessórios,1,291.82,Ernest Peters,Morriston,MA,291.82
+2025-01-23,Boné,Acessórios,2,118.48,Sabrina Bailey,East Kristinberg,NM,236.96
+2025-05-01,Tênis,Calçados,2,317.05,Barbara Schneider,Collierchester,WV,634.1
+2025-04-16,Óculos de Sol,Acessórios,1,464.53,Tyler Reynolds,New Jimmy,CO,464.53
+2024-07-21,Óculos de Sol,Acessórios,3,463.0,Rebecca Johnson,South Paula,LA,1389.0
+2024-12-05,Calça Jeans,Vestuário,5,191.56,Calvin Rodriguez,Jonathanburgh,MI,957.8
+2024-11-02,Boné,Acessórios,3,389.41,Kevin Curtis,Derrickfurt,NY,1168.23
+2024-06-08,Tênis,Calçados,1,129.78,Robert Hernandez,West Mathewberg,PA,129.78
+2024-11-16,Tênis,Calçados,3,212.45,Monica Torres,West Christopherview,IA,637.3499999999999
+2024-06-01,Relógio,Acessórios,2,48.6,Whitney Miller,Richland,AZ,97.2
+2025-04-14,Jaqueta,Vestuário,3,494.37,Cheryl Rogers,Lake Ginahaven,KY,1483.1100000000001
+2025-01-25,Camiseta,Vestuário,5,308.14,Corey Davis,East Adamchester,MI,1540.6999999999998
+2024-10-21,Camiseta,Vestuário,1,161.65,Joseph Graham,Jonesville,MI,161.65
+2024-11-12,Relógio,Acessórios,3,91.53,Brandon Taylor,Kochfort,VT,274.59000000000003
+2024-10-07,Boné,Acessórios,2,199.63,Gregory Deleon,Harveymouth,NM,399.26
+2024-10-18,Relógio,Acessórios,3,443.05,Seth Flores,Jessemouth,OR,1329.15
+2024-12-01,Camiseta,Vestuário,2,192.84,Bridget Allen,North Matthewside,NC,385.68
+2024-12-22,Óculos de Sol,Acessórios,5,67.04,James Ruiz,Johnshire,FL,335.20000000000005
+2024-07-26,Camiseta,Vestuário,1,345.7,Kyle Torres,Perezton,AZ,345.7
+2025-04-24,Relógio,Acessórios,1,292.99,Tyler Donovan,East Timothy,KY,292.99
+2025-03-21,Calça Jeans,Vestuário,5,72.94,Jacob Torres,Millerborough,DC,364.7
+2024-08-17,Óculos de Sol,Acessórios,2,438.12,Sara Jordan,Brownport,ID,876.24
+2025-01-30,Óculos de Sol,Acessórios,4,327.14,Jeffrey Lambert,Williamside,UT,1308.56
+2024-08-20,Calça Jeans,Vestuário,1,153.61,Jason Jacobson,Maryborough,OK,153.61
+2024-06-03,Tênis,Calçados,5,466.59,Mark Chandler,Jamesview,WV,2332.95
+2025-01-11,Óculos de Sol,Acessórios,5,289.94,Tina Moore,Richardview,NY,1449.7
+2024-12-07,Boné,Acessórios,4,150.85,Daniel Patel,South William,ND,603.4
+2025-05-11,Relógio,Acessórios,3,148.54,Erika Perez,Lake Michaelchester,SC,445.62
+2024-08-29,Boné,Acessórios,1,491.62,Jason Smith,West Michelleton,MO,491.62
+2025-05-06,Mochila,Acessórios,2,299.7,Jennifer Foster,Nguyenville,OH,599.4
+2025-02-10,Relógio,Acessórios,3,393.75,Virginia Fernandez,East Natalie,OK,1181.25
+2024-09-03,Mochila,Acessórios,3,308.98,Dean Monroe,North Alexander,PA,926.94
+2024-08-31,Jaqueta,Vestuário,5,30.09,Christopher Collins,New Matthewville,MO,150.45
+2024-12-29,Jaqueta,Vestuário,1,322.34,Jake Estes,Mirandaberg,IN,322.34
+2024-10-10,Jaqueta,Vestuário,1,339.5,Steven Lane,Millertown,MD,339.5
+2024-11-10,Camiseta,Vestuário,4,413.61,Julia Hartman,Christopherborough,NE,1654.44
+2024-06-12,Camiseta,Vestuário,5,249.82,Lori Sexton,Port Zacharymouth,NY,1249.1
+2025-03-29,Jaqueta,Vestuário,3,366.72,Jose Ware,Herreraton,DC,1100.16
+2025-04-08,Jaqueta,Vestuário,2,327.36,Tanya James,Heidibury,FL,654.72
+2024-07-31,Jaqueta,Vestuário,3,42.47,Daniel Cameron,West Diane,SD,127.41
+2025-01-01,Boné,Acessórios,3,294.44,Tiffany Mcfarland,North Christinaland,MT,883.3199999999999
+2025-02-20,Calça Jeans,Vestuário,1,380.9,Julie Becker,Port Heathermouth,CT,380.9
+2025-01-20,Mochila,Acessórios,1,468.25,Matthew Edwards,South Annhaven,IA,468.25
+2024-12-23,Boné,Acessórios,1,255.62,Rebecca Alexander,Heatherview,FL,255.62
+2024-07-02,Mochila,Acessórios,3,401.52,Jessica Robertson,Martinezchester,MI,1204.56
+2024-12-25,Relógio,Acessórios,5,253.2,Martin Wells,Douglasstad,GA,1266.0
+2024-08-27,Boné,Acessórios,2,391.58,Alexis Jenkins,West Belindaville,IL,783.16
+2024-09-08,Relógio,Acessórios,3,32.47,Evelyn Smith,Floresburgh,UT,97.41
+2024-06-09,Tênis,Calçados,5,381.05,Ruth Roberts,Josephborough,MD,1905.25
+2025-03-02,Tênis,Calçados,5,408.52,Jacqueline Ramirez,Randallfurt,LA,2042.6
+2025-03-17,Boné,Acessórios,5,471.88,Corey Chavez,Perkinsmouth,FL,2359.4
+2024-12-20,Óculos de Sol,Acessórios,4,193.11,Susan Delacruz,Mayton,PA,772.44
+2024-08-12,Óculos de Sol,Acessórios,5,398.25,Kevin Turner,Coxburgh,WA,1991.25
+2024-08-12,Boné,Acessórios,4,51.71,Robert Ward,Burnettside,CT,206.84
+2024-07-18,Mochila,Acessórios,4,83.92,Betty Sanders,Craigborough,WY,335.68
+2024-11-05,Jaqueta,Vestuário,5,139.89,Melinda Jackson,Jordanfort,NC,699.4499999999999
+2024-11-29,Tênis,Calçados,3,239.83,Tina Ingram,West Monica,NE,719.49
+2024-06-24,Boné,Acessórios,3,276.22,Gordon Rodriguez,New Edwardbury,CA,828.6600000000001
+2025-02-21,Óculos de Sol,Acessórios,4,250.64,Calvin Gonzalez,New Ronaldbury,UT,1002.56
+2024-06-18,Óculos de Sol,Acessórios,5,380.04,Justin Friedman,Wardfurt,DC,1900.2
+2024-06-03,Calça Jeans,Vestuário,4,74.04,Joe Peterson,Kaitlynborough,WI,296.16
+2024-09-11,Calça Jeans,Vestuário,4,166.25,Valerie Osborn,South Lynn,WI,665.0
+2024-05-22,Camiseta,Vestuário,5,412.97,Jessica Gomez,Thomasmouth,WV,2064.8500000000004
+2024-12-25,Camiseta,Vestuário,5,235.23,Carolyn Ferguson,East Ronald,AK,1176.1499999999999
+2024-09-06,Mochila,Acessórios,5,43.97,Shannon Hamilton,Kaylaside,SD,219.85
+2024-06-05,Calça Jeans,Vestuário,1,151.4,Cassidy Smith,New Elizabethbury,MN,151.4
+2024-10-31,Calça Jeans,Vestuário,2,430.24,Susan King DVM,Calvinbury,OR,860.48
+2025-02-09,Relógio,Acessórios,1,405.49,Willie Meyer,East Ryanberg,MD,405.49
+2024-07-11,Relógio,Acessórios,5,282.25,Philip Clark,South Jessica,HI,1411.25
+2025-04-03,Tênis,Calçados,5,200.56,Holly Adams,Matthewston,NE,1002.8
+2024-11-24,Camiseta,Vestuário,1,334.37,Marcus Wilson,Huntstad,RI,334.37
+2025-03-28,Tênis,Calçados,1,362.14,Erik Scott,Bryanmouth,NC,362.14
+2024-07-16,Mochila,Acessórios,2,466.47,Amanda Gallegos,Williamsville,CA,932.94
+2024-12-20,Boné,Acessórios,5,60.57,Mr. Cody Rodriguez,Michaelfurt,MI,302.85
+2024-12-17,Relógio,Acessórios,1,202.98,Justin Rodriguez,New Briana,WY,202.98
+2024-07-02,Tênis,Calçados,2,326.26,Evelyn Adams,Port Kathleenbury,OH,652.52
+2024-05-26,Tênis,Calçados,5,50.82,Matthew Alvarez,South Chris,NY,254.1
+2024-10-03,Camiseta,Vestuário,2,37.51,Wanda Merritt,Lake Dawnland,IL,75.02
+2024-09-24,Camiseta,Vestuário,4,56.03,James Jordan,Garrisonville,NM,224.12
+2025-04-03,Jaqueta,Vestuário,1,165.65,Tricia Floyd,Walkerville,WV,165.65
+2024-06-02,Camiseta,Vestuário,4,353.92,Jeffrey Phillips,South Scottside,VA,1415.68
+2025-05-03,Calça Jeans,Vestuário,5,83.35,Jennifer Miller,Claytonchester,NC,416.75
+2024-10-03,Relógio,Acessórios,5,381.95,Aaron Lawson,East Juliemouth,NM,1909.75
+2024-09-29,Tênis,Calçados,1,262.4,Mary George,Lake Stephenside,AL,262.4
+2024-07-04,Calça Jeans,Vestuário,2,65.4,Bailey Blake,Marthachester,MT,130.8
+2024-08-14,Camiseta,Vestuário,4,106.32,Lisa Burgess,East Brookeville,SD,425.28
+2024-10-15,Tênis,Calçados,1,137.63,Diane Ballard,Blackland,MO,137.63
+2025-04-02,Tênis,Calçados,2,103.89,Emily Whitehead,Leslieville,NE,207.78
+2025-04-04,Relógio,Acessórios,4,109.27,Carol Yang,Brooksland,AR,437.08
+2024-12-04,Calça Jeans,Vestuário,5,118.24,April Carney,Kimberlyberg,ID,591.1999999999999
+2024-11-22,Boné,Acessórios,4,135.41,Matthew Martin,Chapmanborough,MS,541.64
+2024-08-14,Boné,Acessórios,1,263.29,Dr. James Valdez,North Theresafurt,KY,263.29
+2024-11-12,Boné,Acessórios,2,350.12,Michelle Perez,West Nicholas,MO,700.24
+2025-01-29,Calça Jeans,Vestuário,2,271.06,Jackie Miles,Cesarfurt,DE,542.12
+2025-01-19,Relógio,Acessórios,1,347.64,Sara Hall,Codyport,KY,347.64
+2024-07-02,Tênis,Calçados,2,242.65,Jonathan Rose,South Mariatown,RI,485.3
+2025-05-06,Óculos de Sol,Acessórios,4,399.96,Mary Bolton,Michealport,OK,1599.84
+2024-09-19,Jaqueta,Vestuário,4,291.94,Jennifer Oliver,Kellishire,NJ,1167.76
+2025-01-01,Calça Jeans,Vestuário,2,438.98,Karen Smith,Micheleton,CT,877.96
+2024-06-20,Tênis,Calçados,3,429.08,Crystal Fernandez,Monicafort,MS,1287.24
+2024-09-17,Tênis,Calçados,1,204.73,Sara York,Wilsonton,SC,204.73
+2024-11-27,Camiseta,Vestuário,1,499.99,Melissa Fuentes,Lake Andrewstad,TN,499.99
+2025-02-20,Óculos de Sol,Acessórios,3,232.08,John Rodriguez,Hendricksfort,VA,696.24
+2025-02-07,Tênis,Calçados,4,333.55,Christina Wilson,Jefferybury,NM,1334.2
+2024-08-31,Relógio,Acessórios,4,311.04,Sherry Johnson DDS,Port Christopherfort,UT,1244.16
+2024-11-05,Boné,Acessórios,5,120.28,Adam Washington,Marshmouth,PA,601.4
+2024-08-14,Calça Jeans,Vestuário,5,198.37,Lisa Gould,Vincentfort,VA,991.85
+2024-07-13,Óculos de Sol,Acessórios,2,290.18,Melody Hughes,Johnsonborough,MI,580.36
+2024-08-29,Óculos de Sol,Acessórios,5,240.25,Joseph Reese,North Nancyville,KY,1201.25
+2024-06-26,Tênis,Calçados,1,146.98,James Hughes,New Daniel,KS,146.98
+2025-02-28,Relógio,Acessórios,1,482.66,Angela Williams,Ashleyville,KS,482.66
+2024-08-28,Jaqueta,Vestuário,2,482.23,Kevin Wright,Millerport,MA,964.46
+2025-03-16,Jaqueta,Vestuário,2,223.78,Joseph Powell,Port Benjamin,NC,447.56
+2025-01-07,Mochila,Acessórios,1,459.52,Rita Bolton,Port Josephburgh,VT,459.52
+2024-06-06,Jaqueta,Vestuário,4,447.06,Miranda Johnson,Claudiaburgh,NY,1788.24
+2024-12-11,Tênis,Calçados,1,366.58,David Johnson,North Angela,WA,366.58
+2025-05-06,Jaqueta,Vestuário,1,119.25,Nathaniel Allison,New Carolynhaven,WV,119.25
+2024-10-18,Camiseta,Vestuário,5,84.76,Patrick Moon,Kingview,DC,423.8
+2025-04-05,Boné,Acessórios,1,227.81,Lisa Shaw,Hillhaven,WV,227.81
+2025-04-12,Tênis,Calçados,3,438.95,Rebecca Barnes,Donaldtown,NC,1316.85
+2024-09-19,Camiseta,Vestuário,4,477.13,Omar Johnston,Heathermouth,VT,1908.52
+2024-10-28,Tênis,Calçados,5,50.6,Brian Lewis,New William,DC,253.0
+2024-12-29,Relógio,Acessórios,1,170.39,Richard Garcia,Adamsville,MT,170.39
+2025-05-06,Jaqueta,Vestuário,2,72.65,Kimberly Miller,Port Pamelahaven,KS,145.3
+2025-05-12,Jaqueta,Vestuário,3,94.47,Stephanie Johnson,North Jennifer,NM,283.40999999999997
+2024-10-20,Óculos de Sol,Acessórios,1,67.4,Calvin Escobar,Vargasfort,ME,67.4
+2025-02-07,Óculos de Sol,Acessórios,4,328.17,Sara Harvey,New Tonimouth,GA,1312.68
+2025-04-01,Mochila,Acessórios,1,371.74,David Davis,Lake Danielhaven,OH,371.74
+2025-03-30,Calça Jeans,Vestuário,1,98.0,Stephanie Gray,Hendersontown,DE,98.0
+2024-08-22,Óculos de Sol,Acessórios,3,246.18,Chelsea Evans,East Teresa,PA,738.54
+2024-08-11,Óculos de Sol,Acessórios,5,263.2,Mark Orozco,Brandiside,CA,1316.0
+2024-12-27,Calça Jeans,Vestuário,3,325.49,Melissa Hobbs,Brettfort,WY,976.47
+2024-09-29,Óculos de Sol,Acessórios,4,350.97,Jennifer Smith DVM,South Brookefurt,TN,1403.88
+2025-05-04,Calça Jeans,Vestuário,1,347.42,Joshua Thompson,East Lancestad,DE,347.42
+2025-05-19,Calça Jeans,Vestuário,3,166.89,David Owens,Allenfort,WV,500.66999999999996
+2024-11-06,Boné,Acessórios,2,141.64,Jonathan Goodman,Randolphstad,OK,283.28
+2025-01-07,Camiseta,Vestuário,1,408.65,Ryan Young,Mirandachester,NY,408.65
+2025-03-28,Óculos de Sol,Acessórios,3,41.08,Gerald Moore,Kathrynfort,MT,123.24
+2025-05-13,Relógio,Acessórios,1,308.53,Joanna Vasquez,Bethanyport,NY,308.53
+2024-10-06,Camiseta,Vestuário,1,346.56,Angela Castillo,West Lydia,TX,346.56
+2024-12-17,Mochila,Acessórios,3,36.45,Walter Nicholson,Lake Laura,NM,109.35000000000001
+2024-11-16,Tênis,Calçados,5,285.89,Traci Fernandez,East Joannechester,MA,1429.4499999999998
+2025-05-17,Calça Jeans,Vestuário,3,106.45,Alexandra Meyer,Lake Natasha,IN,319.35
+2024-09-07,Jaqueta,Vestuário,5,275.62,Benjamin Murray,Gregorymouth,MD,1378.1
+2025-03-21,Calça Jeans,Vestuário,3,404.13,Dylan Davis,South Sonyafurt,DC,1212.3899999999999
+2024-09-04,Boné,Acessórios,1,223.43,David Horton,Bradyport,WI,223.43
+2024-06-03,Mochila,Acessórios,3,497.98,Todd Davis,Langview,NJ,1493.94
+2025-04-27,Tênis,Calçados,5,441.01,Maria Brown,Matthewstown,HI,2205.05
+2024-07-10,Boné,Acessórios,1,198.03,Yvette Hernandez,Jacobtown,OK,198.03
+2025-04-27,Mochila,Acessórios,2,33.56,Stephanie Farmer,Lake Katherine,CT,67.12
+2024-09-19,Jaqueta,Vestuário,3,461.28,Susan Williams,Schmittfurt,TN,1383.84
+2025-03-12,Mochila,Acessórios,4,397.84,Brandon Ryan,Jesusview,AZ,1591.36
+2024-05-30,Boné,Acessórios,4,255.78,Stephanie Wright,Lake Lauratown,AL,1023.12
+2024-07-02,Jaqueta,Vestuário,4,449.18,James Lewis,Walshton,SC,1796.72
+2024-06-10,Óculos de Sol,Acessórios,3,133.69,Douglas Mayer,East Ryan,AZ,401.07
+2024-10-25,Boné,Acessórios,4,149.91,Evan Cobb,East Shaneview,MI,599.64
+2025-02-03,Relógio,Acessórios,3,409.7,Theresa Hoffman,East Melissa,TN,1229.1
+2024-07-29,Boné,Acessórios,1,296.8,Richard Rhodes,New Lisatown,DE,296.8
+2025-01-31,Tênis,Calçados,1,333.9,Patricia Davis,New Brianburgh,LA,333.9
+2025-05-02,Boné,Acessórios,4,217.83,Kelsey Manning,Port Davidburgh,TN,871.32
+2025-03-08,Camiseta,Vestuário,4,103.88,Angelica Howard,Johnsonchester,FL,415.52
+2024-08-01,Mochila,Acessórios,5,202.11,Patricia Vasquez,South Danielport,TX,1010.5500000000001
+2024-07-12,Óculos de Sol,Acessórios,5,162.26,Christopher Parker,West Johnmouth,PA,811.3
+2025-04-17,Relógio,Acessórios,2,461.4,William Gallagher,East Charlestown,MS,922.8
+2024-06-08,Camiseta,Vestuário,5,280.04,Catherine Hayes,North Timothyport,LA,1400.2
+2025-02-09,Óculos de Sol,Acessórios,4,37.9,Lori Joseph,Port Michelle,WY,151.6
+2025-02-04,Boné,Acessórios,1,497.41,Michael Smith,Jessicaberg,VA,497.41
+2025-03-01,Mochila,Acessórios,4,314.75,Melanie Schroeder,New Jordan,AZ,1259.0
+2024-07-13,Relógio,Acessórios,2,428.99,Reginald Palmer,West Davidville,MI,857.98
+2024-10-08,Jaqueta,Vestuário,3,445.66,Elizabeth Burke,Hallport,OR,1336.98
+2024-10-05,Calça Jeans,Vestuário,4,326.31,Marcia Byrd,Garciaberg,MD,1305.24
+2025-04-02,Calça Jeans,Vestuário,2,370.17,Kristin Armstrong,Williamsberg,ME,740.34
+2025-01-24,Boné,Acessórios,5,62.2,Robert Stephenson,Gravesmouth,IA,311.0
+2024-11-06,Jaqueta,Vestuário,3,350.53,Laurie Holt,Port Michaelshire,ME,1051.59
+2025-03-12,Camiseta,Vestuário,2,103.61,Dorothy Rodriguez,New Samuel,AL,207.22
+2024-08-09,Jaqueta,Vestuário,5,238.79,Carol Wallace,South Sarah,MD,1193.95
+2024-11-10,Calça Jeans,Vestuário,2,423.69,Amanda Harris,Norrisberg,KY,847.38
+2024-06-25,Tênis,Calçados,5,174.8,Anthony Jones,North Theresa,NC,874.0
+2025-04-01,Mochila,Acessórios,3,271.3,Jennifer Nunez,Haleychester,TN,813.9000000000001
+2025-05-01,Óculos de Sol,Acessórios,5,123.2,Daniel Vaughn,West Alexa,NY,616.0
+2024-12-21,Calça Jeans,Vestuário,1,348.55,Michelle Newton,Andreaview,CA,348.55
+2024-09-28,Calça Jeans,Vestuário,4,463.76,James Martinez,Berryland,MA,1855.04
+2025-04-22,Mochila,Acessórios,3,490.5,Scott Jefferson,Cabreraton,CA,1471.5
+2024-08-12,Mochila,Acessórios,5,265.24,Raymond Pacheco,Kennedyville,PA,1326.2
+2025-05-16,Mochila,Acessórios,2,171.3,Frederick Mitchell,Doughertystad,IN,342.6
+2024-12-10,Tênis,Calçados,4,470.12,Laura Conner,North Molly,NE,1880.48
+2024-11-17,Mochila,Acessórios,3,447.17,Jeffrey Beck,Mahoneyland,WI,1341.51
+2025-04-06,Boné,Acessórios,2,491.49,Michael Osborne,Vegaport,NM,982.98
+2024-11-12,Camiseta,Vestuário,4,130.79,Lori Neal,East Erikatown,NV,523.16
+2025-02-02,Jaqueta,Vestuário,1,387.4,Kristen Foster,Miguelhaven,AK,387.4
+2024-06-27,Camiseta,Vestuário,2,367.66,Katelyn Sanders,Angelafurt,NE,735.32
+2024-06-07,Relógio,Acessórios,4,251.08,Jeremy Johnson,West Lindafurt,AR,1004.32
+2024-07-05,Tênis,Calçados,5,399.75,Michael Harris,Port Michael,MD,1998.75
+2024-06-10,Relógio,Acessórios,4,264.44,John Walker,Mendozabury,PA,1057.76
+2025-01-20,Jaqueta,Vestuário,4,305.54,Daniel Gaines,Smithville,ID,1222.16
+2024-12-06,Óculos de Sol,Acessórios,2,144.69,Jennifer Warner,Pamelaside,TX,289.38
+2024-11-17,Mochila,Acessórios,5,462.76,Jermaine Johnson,West Kimberlyport,OH,2313.8
+2024-11-24,Mochila,Acessórios,2,270.08,Frank Stewart,Jenningshaven,LA,540.16
+2024-08-13,Óculos de Sol,Acessórios,2,349.93,Amber Davis,East Kristina,VT,699.86
+2024-08-14,Relógio,Acessórios,4,400.09,Jeremiah Johnson,New Markbury,OR,1600.36
+2024-09-09,Jaqueta,Vestuário,2,200.49,Kevin Huber,Jaimefurt,VA,400.98
+2024-06-21,Camiseta,Vestuário,2,104.02,Ryan Tyler,South Brianberg,NC,208.04
+2024-09-27,Camiseta,Vestuário,5,464.06,Connor Clark,Rosefurt,ID,2320.3
+2024-11-29,Óculos de Sol,Acessórios,4,260.9,Julian Smith,Lake Patriciastad,MA,1043.6
+2025-02-28,Camiseta,Vestuário,2,254.96,Randy Williams,Kingville,IL,509.92
+2025-01-04,Jaqueta,Vestuário,2,299.17,Jacob Calderon,Samuelchester,LA,598.34
+2024-09-05,Boné,Acessórios,4,95.66,Sheryl Padilla,West Nancy,NJ,382.64
+2025-01-24,Camiseta,Vestuário,2,289.25,Stephen Taylor,Pamelastad,TN,578.5
+2024-11-12,Boné,Acessórios,4,227.36,Kevin Kirby,East Jeffreyport,VT,909.44
+2024-07-22,Boné,Acessórios,5,369.2,Victor Warner,Jacobsstad,CT,1846.0
+2025-02-17,Tênis,Calçados,1,453.63,Brian Harris,Williamsbury,NE,453.63
+2025-05-01,Mochila,Acessórios,5,479.87,Kristi Smith,West Tabithaside,CA,2399.35
+2024-11-19,Tênis,Calçados,5,222.88,Brandon Khan,Lake Hannahfort,OH,1114.4
+2025-03-09,Camiseta,Vestuário,5,368.11,Debra Martinez,New Jeffview,IN,1840.5500000000002
+2024-09-28,Boné,Acessórios,5,345.83,Sean Washington,Jessicaborough,MN,1729.1499999999999
+2025-04-22,Boné,Acessórios,1,131.56,Joan Mayer,Chelseaberg,AK,131.56
+2025-04-15,Boné,Acessórios,3,210.31,Melody Juarez,Campbellchester,WV,630.9300000000001
+2025-03-17,Relógio,Acessórios,4,247.34,Sean Walsh,West William,VA,989.36
+2025-04-08,Óculos de Sol,Acessórios,5,349.9,Bryan Garner,North Thomas,AK,1749.5
+2025-02-19,Jaqueta,Vestuário,2,42.41,Brianna Johnson,Traciview,OK,84.82
+2024-08-30,Óculos de Sol,Acessórios,5,347.02,Ryan Johnson,Fosterland,OR,1735.1
+2025-05-09,Relógio,Acessórios,3,443.89,Monica White,West Elizabethland,WV,1331.67
+2024-07-18,Camiseta,Vestuário,5,455.81,Matthew Chung,North Amychester,SD,2279.05
+2024-08-30,Óculos de Sol,Acessórios,4,271.12,Linda Peck,New Joshuatown,LA,1084.48
+2024-08-12,Boné,Acessórios,2,176.62,Raymond Ware,Danielfort,CA,353.24
+2025-05-18,Boné,Acessórios,1,195.0,Anthony Cooper,Cordovamouth,ID,195.0
+2024-10-18,Óculos de Sol,Acessórios,3,159.61,Tyler Fitzgerald,New Robertstad,WY,478.83000000000004
+2025-03-10,Relógio,Acessórios,4,379.49,Todd Dean,Lake Melvin,NY,1517.96
+2024-11-08,Relógio,Acessórios,5,122.01,Jennifer Boyd,North Theresa,OH,610.0500000000001
+2025-05-16,Calça Jeans,Vestuário,5,372.02,Anthony Thomas,West Josephland,MO,1860.1
+2025-05-06,Jaqueta,Vestuário,1,268.09,Tracey Ruiz,East Michaelfort,TN,268.09
+2024-08-22,Mochila,Acessórios,1,171.0,Catherine Santos,West Kevin,MI,171.0
+2025-05-19,Relógio,Acessórios,3,485.41,Amy Irwin,Smithtown,OH,1456.23
+2025-02-11,Boné,Acessórios,4,273.01,Christopher Bowman,Samanthaton,NV,1092.04
+2024-09-23,Jaqueta,Vestuário,4,35.33,Kelly Smith,North Brian,MI,141.32
+2025-01-22,Óculos de Sol,Acessórios,3,54.89,Matthew Lopez,Port Alexafort,CO,164.67000000000002
+2025-03-03,Jaqueta,Vestuário,4,116.79,Tyler Brown,Leslieland,DE,467.16
+2024-08-26,Relógio,Acessórios,1,327.6,Emily Duarte,Joycebury,ND,327.6
+2025-02-07,Calça Jeans,Vestuário,2,195.78,Kimberly Thomas,Shelbyview,TX,391.56
+2024-10-18,Camiseta,Vestuário,2,121.92,Willie Santiago,South Bryce,NJ,243.84
+2024-08-31,Calça Jeans,Vestuário,5,431.61,Amanda Harris,New Anita,SC,2158.05
+2025-02-13,Jaqueta,Vestuário,2,133.27,Karen Barron,East Christopherborough,HI,266.54
+2024-12-21,Calça Jeans,Vestuário,3,306.16,Jeffrey Bradley,North Abigailmouth,WV,918.48
+2025-03-05,Camiseta,Vestuário,4,316.42,Lauren Kent,Leahbury,ND,1265.68
+2025-03-19,Tênis,Calçados,5,273.2,Christopher Robinson,Andersontown,NJ,1366.0
+2024-12-18,Jaqueta,Vestuário,1,170.23,Tyler Johnson,Gonzalezton,SC,170.23
+2024-07-01,Relógio,Acessórios,1,271.25,Daniel Ward,Clarkfort,MN,271.25
+2024-07-30,Óculos de Sol,Acessórios,4,409.21,Alexandra Mann,Smithfurt,OH,1636.84
+2025-05-12,Camiseta,Vestuário,5,337.86,Stephanie Ball,New Jamesfurt,CT,1689.3000000000002
+2025-02-12,Tênis,Calçados,2,144.38,Jim Farmer,Brittneymouth,KY,288.76
+2025-02-01,Jaqueta,Vestuário,1,155.38,Jessica Ramirez,New Brianmouth,IA,155.38
+2024-09-15,Mochila,Acessórios,5,283.15,Gary Wood,East Jasmine,WV,1415.75
+2024-06-28,Relógio,Acessórios,5,393.21,Shelby Cox,West Henry,NE,1966.05
+2024-10-28,Boné,Acessórios,2,405.14,Elizabeth Williams,Paulfort,OR,810.28
+2024-10-07,Tênis,Calçados,2,293.33,Steven Ellis,South Rickyland,DE,586.66
+2024-08-26,Boné,Acessórios,4,497.87,Teresa Gray,East Dorothy,OH,1991.48
+2025-01-04,Jaqueta,Vestuário,2,190.7,Lindsey Klein,South Alison,NC,381.4
+2024-07-27,Jaqueta,Vestuário,5,261.74,James Brown,Brookeberg,NY,1308.7
+2024-07-16,Calça Jeans,Vestuário,1,36.24,Samantha Thomas,Bishopton,NJ,36.24
+2024-05-23,Mochila,Acessórios,4,257.31,Jack Branch,Billyborough,IN,1029.24
+2025-05-11,Óculos de Sol,Acessórios,1,283.8,Adam Best,North Brian,MO,283.8
+2024-10-25,Camiseta,Vestuário,1,192.59,Brendan Burke,South Tammy,OR,192.59
+2024-11-02,Mochila,Acessórios,2,480.36,Scott Howell,Newmanmouth,NV,960.72
+2024-05-22,Tênis,Calçados,3,266.04,Lacey Crawford,Albertberg,VT,798.1200000000001
+2025-01-11,Óculos de Sol,Acessórios,3,292.99,Andre Kim,New Robertburgh,NM,878.97
+2024-10-01,Mochila,Acessórios,1,70.71,Terri Reynolds,Johnsonbury,VA,70.71
+2024-08-11,Óculos de Sol,Acessórios,1,282.77,Michael Greer,New Heatherland,MD,282.77
+2024-09-15,Jaqueta,Vestuário,4,480.44,Ryan Cook,Kimland,MD,1921.76
+2024-08-15,Mochila,Acessórios,2,357.87,Christopher Liu,North Andreaborough,WA,715.74
+2024-11-18,Mochila,Acessórios,4,269.32,Gregory Flores,Catherinemouth,TN,1077.28
+2024-07-30,Jaqueta,Vestuário,5,467.6,Joseph Myers,Zacharymouth,NE,2338.0
+2024-07-25,Tênis,Calçados,5,420.59,Duane Morgan,South Steven,KS,2102.95
+2025-05-13,Calça Jeans,Vestuário,5,439.86,Joel Young,South Justin,AL,2199.3
+2024-05-29,Tênis,Calçados,2,182.22,Jennifer Jensen,Mccoymouth,AZ,364.44
+2025-05-01,Óculos de Sol,Acessórios,3,497.44,Ellen Wu,New Annafurt,CA,1492.32
+2024-07-13,Camiseta,Vestuário,1,152.74,Kelsey Simpson,South Albert,NY,152.74
+2024-08-14,Jaqueta,Vestuário,4,267.39,Paul Harmon,Brianhaven,MS,1069.56
+2024-09-09,Jaqueta,Vestuário,4,495.04,Jeffrey Cobb,West Keithmouth,NC,1980.16
+2024-06-19,Boné,Acessórios,3,100.54,Sarah Williams,Rosefurt,WI,301.62
+2024-07-12,Mochila,Acessórios,5,114.08,Roberto Le,Jasonshire,RI,570.4
+2024-07-21,Boné,Acessórios,4,235.79,Christina Garcia,Greenton,SC,943.16
+2025-03-20,Tênis,Calçados,3,129.1,Carolyn Morgan,Fosterport,NE,387.29999999999995
+2025-04-27,Tênis,Calçados,5,45.4,Nathan Reynolds,Ryanberg,ME,227.0
+2025-04-18,Calça Jeans,Vestuário,2,340.96,Eric Barry,Robinville,ID,681.92
+2024-06-24,Mochila,Acessórios,2,330.83,Mary Davis,East Bryceville,ND,661.66
+2024-12-16,Mochila,Acessórios,5,451.83,Richard Hancock,Lake Marcusbury,CA,2259.15
+2024-09-07,Mochila,Acessórios,2,65.67,John Nguyen,Erikmouth,TX,131.34
+2025-04-14,Tênis,Calçados,2,178.87,Terry Higgins,South Lindastad,UT,357.74
+2025-01-27,Jaqueta,Vestuário,5,407.99,Timothy Cameron,Angelafort,NH,2039.95
+2025-05-08,Tênis,Calçados,1,306.66,Larry Wiggins,South Lindafurt,ID,306.66
+2024-08-16,Jaqueta,Vestuário,5,473.13,Henry Gates,North William,ME,2365.65
+2025-05-01,Boné,Acessórios,1,280.87,Justin Hodges,New Chadport,AL,280.87
+2025-03-06,Óculos de Sol,Acessórios,2,460.82,Amy Williams,Lopezshire,DE,921.64
+2025-04-10,Jaqueta,Vestuário,5,366.17,Michelle Giles,Sheilaburgh,MN,1830.8500000000001
+2024-12-15,Óculos de Sol,Acessórios,1,372.11,Ronald Brown DDS,Jeffreymouth,AR,372.11
+2024-11-01,Mochila,Acessórios,5,341.66,Lisa Blackwell,South Craigberg,WY,1708.3000000000002
+2024-05-25,Camiseta,Vestuário,4,152.57,Hunter Martinez,Donaldsonshire,CT,610.28
+2024-09-27,Relógio,Acessórios,5,44.69,Larry Spencer,Robertsmouth,LA,223.45
+2024-10-08,Boné,Acessórios,4,80.81,Jamie Norris,East Gracefurt,RI,323.24
+2024-07-03,Boné,Acessórios,4,212.63,James Holmes,North Katherine,CT,850.52
+2025-05-18,Calça Jeans,Vestuário,5,445.94,Brian Henderson,Anthonyview,NJ,2229.7
+2025-02-26,Camiseta,Vestuário,4,364.59,Ashley Smith,New Michelletown,NY,1458.36
+2024-10-16,Calça Jeans,Vestuário,1,200.16,Paul Nichols,Port Rebeccaberg,CO,200.16
+2025-01-14,Tênis,Calçados,5,167.83,Alyssa Bell,Elizabethtown,UT,839.1500000000001
+2024-06-12,Boné,Acessórios,2,168.33,Scott Pruitt,Webbchester,IA,336.66
+2025-05-16,Relógio,Acessórios,4,454.68,Christopher Thompson,Bryanmouth,WV,1818.72
+2024-11-17,Mochila,Acessórios,2,40.21,Frederick Phillips,New Paul,OK,80.42
+2024-11-14,Boné,Acessórios,3,464.04,Brittany Hunter,East Kelsey,VA,1392.1200000000001
+2024-11-27,Mochila,Acessórios,1,362.98,Brian Walker,South Connorside,MN,362.98
+2024-07-30,Relógio,Acessórios,1,388.95,Misty Jenkins,New Michaelberg,KY,388.95
+2024-12-07,Óculos de Sol,Acessórios,1,416.19,Lindsay Brown,West Yolandamouth,WI,416.19
+2025-03-04,Calça Jeans,Vestuário,2,183.33,Joseph Bowen,East Rebeccafort,CA,366.66
+2025-04-26,Relógio,Acessórios,1,180.16,Joshua Mcdaniel,Harrisonland,MI,180.16
+2024-06-22,Calça Jeans,Vestuário,5,408.99,Anthony Spence,East Toddtown,VA,2044.95
+2024-10-26,Camiseta,Vestuário,2,203.72,Tanya Nichols,Lake Kathrynfurt,WI,407.44
+2025-05-19,Boné,Acessórios,1,349.1,Michael Valdez,West Alexander,IL,349.1
+2024-11-19,Boné,Acessórios,1,89.31,Miranda Hicks,Walterville,ME,89.31
+2024-06-07,Mochila,Acessórios,4,355.98,Nicholas Hoffman,Lake Jonathan,CA,1423.92
+2025-03-11,Óculos de Sol,Acessórios,4,137.04,Jennifer Davis,East Jason,WI,548.16
+2024-06-10,Camiseta,Vestuário,2,434.79,Chad Johnson,Lake Mary,AK,869.58
+2024-12-01,Mochila,Acessórios,2,427.39,Scott Brown,Tinafort,CT,854.78
+2024-11-14,Relógio,Acessórios,5,489.78,Leah Garza DVM,Port Jonathan,NV,2448.8999999999996
+2025-02-07,Boné,Acessórios,2,166.28,Timothy Turner,Serranofurt,SC,332.56
+2024-09-16,Relógio,Acessórios,4,288.42,Joseph Bryant,Taylormouth,ID,1153.68
+2024-06-27,Tênis,Calçados,2,327.95,John Perez,East Kristen,LA,655.9
+2024-12-06,Jaqueta,Vestuário,2,498.55,Grace Chandler,Laurenbury,DC,997.1
+2024-09-03,Relógio,Acessórios,5,255.65,Philip Cooper,Martinhaven,AZ,1278.25
+2025-04-17,Jaqueta,Vestuário,1,478.93,Rebecca Miller,West Ronald,VA,478.93
+2025-04-06,Jaqueta,Vestuário,4,216.38,Kenneth King,East Paul,NM,865.52
+2024-06-08,Tênis,Calçados,4,467.32,Cynthia Campbell,Port Samuel,VA,1869.28
+2024-12-12,Tênis,Calçados,2,260.51,Alexander Hogan,Lake Ashley,NV,521.02
+2024-05-27,Mochila,Acessórios,1,203.22,Kenneth Dunn,New Nicholasburgh,GA,203.22
+2024-09-16,Mochila,Acessórios,1,326.25,Elizabeth Vazquez,Allenville,IA,326.25
+2025-02-10,Óculos de Sol,Acessórios,5,146.26,Jasmine Wong,South Christian,KS,731.3
+2024-10-30,Mochila,Acessórios,5,236.6,Miranda Jensen,Danielleton,MT,1183.0
+2024-10-05,Boné,Acessórios,1,240.2,April Byrd,New Tammystad,IN,240.2
+2024-11-25,Boné,Acessórios,1,132.54,Alexandra Howell,East Laurenmouth,MN,132.54
+2024-07-05,Jaqueta,Vestuário,1,288.67,Ronald Carter,Port Kayleeton,NE,288.67
+2025-04-14,Mochila,Acessórios,2,142.03,James Blake,East Ryanport,OK,284.06
+2024-07-28,Boné,Acessórios,1,72.84,James Hernandez,Lawrenceton,WV,72.84
+2025-04-25,Jaqueta,Vestuário,2,112.61,Rachel Hernandez,Lake Ashleytown,DE,225.22
+2024-10-20,Calça Jeans,Vestuário,5,75.33,Sarah Welch,South Benjamin,OH,376.65
+2024-10-18,Mochila,Acessórios,1,104.48,Jacqueline Johnson,Dawnmouth,SD,104.48
+2024-09-09,Relógio,Acessórios,5,142.63,Nicole Smith,Connieport,MI,713.15
+2024-11-17,Relógio,Acessórios,2,90.74,Christine Lewis,East Jamesborough,ME,181.48
+2025-04-24,Calça Jeans,Vestuário,3,318.44,James Jones,Port Natalie,KY,955.3199999999999
+2025-02-05,Tênis,Calçados,4,268.58,Rebekah Brennan,South Brenda,IL,1074.32
+2025-05-02,Calça Jeans,Vestuário,5,397.21,Jonathan Rice,South Susan,TX,1986.05
+2024-09-15,Boné,Acessórios,5,442.56,Phillip Barnes,New Andrewview,MO,2212.8
+2025-03-03,Óculos de Sol,Acessórios,1,91.19,Johnny Thomas,West Ericshire,VA,91.19
+2024-09-30,Mochila,Acessórios,2,104.93,Erika Martinez,South Tammy,NC,209.86
+2024-06-01,Camiseta,Vestuário,5,174.75,Lisa Guzman,Rosalesmouth,LA,873.75
+2024-11-06,Jaqueta,Vestuário,5,345.1,Crystal Frank,Port Julieton,TX,1725.5
+2024-06-09,Mochila,Acessórios,1,475.45,Caitlin Mueller,Batesmouth,NC,475.45
+2024-08-05,Óculos de Sol,Acessórios,4,302.0,Alex Meyers,East Richard,VA,1208.0
+2024-09-16,Tênis,Calçados,5,366.42,John Ford,Davidburgh,TX,1832.1000000000001
+2025-05-15,Óculos de Sol,Acessórios,5,390.35,April Beard,Richardsbury,OR,1951.75
+2025-02-07,Camiseta,Vestuário,5,45.29,Christopher Erickson,North Micheal,VT,226.45
+2024-10-24,Calça Jeans,Vestuário,2,292.88,Erin Woods,South Joseph,WI,585.76
+2025-04-28,Tênis,Calçados,2,499.01,Jonathan Martinez,Lake Melvin,TX,998.02
+2025-04-02,Óculos de Sol,Acessórios,1,288.16,Carolyn Thompson,Lake Ann,AK,288.16
+2024-05-19,Jaqueta,Vestuário,1,252.08,Lisa Powell,Mccallmouth,CT,252.08
+2025-05-08,Tênis,Calçados,4,356.82,Gabriel Hill,Cynthiaport,NV,1427.28
+2024-07-19,Óculos de Sol,Acessórios,2,87.97,Cynthia Patrick,South Katieberg,CT,175.94
+2025-03-23,Tênis,Calçados,1,111.53,Joshua Jackson,East Albertburgh,MN,111.53
+2024-06-25,Jaqueta,Vestuário,3,142.0,Derek Bell,Lauriemouth,NM,426.0
+2024-07-07,Mochila,Acessórios,1,79.74,Matthew Strickland,Williamschester,NV,79.74
+2024-08-03,Relógio,Acessórios,1,57.47,Cathy Callahan,South Dylan,CA,57.47
+2025-01-05,Calça Jeans,Vestuário,1,407.43,Sherri Sims,Smithberg,NY,407.43
+2024-05-21,Camiseta,Vestuário,4,217.82,Maria Bryant,Courtneyborough,MT,871.28
+2025-04-18,Óculos de Sol,Acessórios,1,273.91,Patty Barron,Williamfurt,OK,273.91
+2025-03-09,Jaqueta,Vestuário,3,104.34,Maria Ramos,Antonioborough,MI,313.02
+2024-11-13,Jaqueta,Vestuário,1,399.74,Daniel Moore,West Ronaldstad,FL,399.74
+2025-03-08,Camiseta,Vestuário,4,364.53,Matthew Hernandez,South Marisa,TN,1458.12
+2024-10-12,Relógio,Acessórios,2,151.78,Phillip Long,New Heatherburgh,VA,303.56
+2025-05-09,Relógio,Acessórios,3,276.54,Joseph Hawkins,Henrytown,MO,829.6200000000001
+2024-09-14,Relógio,Acessórios,1,268.9,Kristen Glover,Mcconnellport,TX,268.9
+2024-10-27,Mochila,Acessórios,5,429.89,Brittany Sanchez,Frankshire,RI,2149.45
+2025-01-30,Relógio,Acessórios,3,270.99,Joseph Meyers,Garciamouth,OR,812.97
+2025-03-20,Óculos de Sol,Acessórios,4,436.97,John Romero,New Joanberg,KY,1747.88
+2024-09-04,Calça Jeans,Vestuário,4,480.89,Jeff Douglas,West Davidburgh,AZ,1923.56
+2025-02-18,Boné,Acessórios,1,493.6,David Barber,Lake Caitlinchester,NC,493.6
+2025-05-14,Tênis,Calçados,5,54.82,Timothy Harrell,Knightshire,GA,274.1
+2024-12-01,Camiseta,Vestuário,4,73.69,Michelle Baxter,North Kennethfurt,HI,294.76
+2025-03-05,Boné,Acessórios,4,305.85,Justin Wong,Kelleytown,UT,1223.4
+2024-12-07,Mochila,Acessórios,1,248.25,James Henderson,East Jared,ID,248.25
+2024-10-24,Camiseta,Vestuário,1,395.46,Matthew Lynch,Heidifort,OK,395.46
+2024-06-18,Calça Jeans,Vestuário,3,473.95,Tamara Scott,Danielside,IL,1421.85
+2024-06-21,Calça Jeans,Vestuário,1,75.65,Jason Nguyen,New Valerie,SD,75.65
+2024-09-04,Mochila,Acessórios,3,91.73,Alejandra Lindsey,West Robertville,NY,275.19
+2025-03-12,Camiseta,Vestuário,5,52.84,Elizabeth Martin,Timothyton,NJ,264.20000000000005
+2024-10-12,Tênis,Calçados,3,173.4,Jennifer Kemp,North Keith,NH,520.2
+2025-05-02,Tênis,Calçados,1,388.15,Maria Peterson,Harriston,OR,388.15
+2024-09-06,Tênis,Calçados,2,216.14,Ashley Owens,Phillipsview,TX,432.28
+2024-06-11,Mochila,Acessórios,1,211.74,Walter Bridges,Taylorberg,WY,211.74
+2024-12-06,Boné,Acessórios,3,367.82,Barbara Hart,West Brettport,VT,1103.46
+2025-03-29,Tênis,Calçados,1,478.21,Timothy Moreno,New Kent,AL,478.21
+2025-03-21,Calça Jeans,Vestuário,2,253.75,William Herrera,North Melissaberg,SC,507.5
+2024-08-14,Óculos de Sol,Acessórios,4,89.46,Nicholas Allen,North Lisa,AZ,357.84
+2025-04-24,Boné,Acessórios,5,464.78,Calvin Thomas,Gonzaleston,DE,2323.8999999999996
+2025-03-10,Camiseta,Vestuário,4,107.77,James Snyder,Dunlapfort,AR,431.08
+2024-12-25,Camiseta,Vestuário,4,490.98,Michelle Walker,Williamsberg,OR,1963.92
+2024-12-01,Óculos de Sol,Acessórios,2,210.53,Robert Bernard,Jenniferside,AZ,421.06
+2024-09-25,Boné,Acessórios,1,71.6,Gabrielle Hood,North Andrewville,TX,71.6
+2024-09-29,Relógio,Acessórios,3,439.75,Adrienne Smith,Kennedytown,NJ,1319.25
+2025-05-02,Óculos de Sol,Acessórios,4,356.62,Karen Rogers,East Nathan,NH,1426.48
+2025-04-05,Boné,Acessórios,4,450.86,Stacy Carroll,New Joelburgh,AL,1803.44
+2024-08-21,Camiseta,Vestuário,5,96.75,Brooke Graham,South Deborahmouth,TN,483.75
+2024-10-17,Jaqueta,Vestuário,4,448.61,Jeffrey Travis,South Jason,VT,1794.44
+2024-07-28,Calça Jeans,Vestuário,1,119.34,Becky Velasquez,Heatherview,WI,119.34
